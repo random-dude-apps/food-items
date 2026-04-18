@@ -1,155 +1,3459 @@
 [
-  {"id":"B001","name":"ज्वार-मेथी चीला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","omega3_support"],"notes":"लगभग 285 kcal, प्रोटीन 11 g, फाइबर 8 g; मैग्नीशियम, फोलेट, कैल्शियम.","instruction":"ज्वार आटा, मेथी और दही/पानी से घोल बनाकर 2 छोटे चीले कम तेल में सेकें; ऊपर अलसी डालें और हरी चटनी के साथ दें।","ingredients":["ज्वार आटा 40 g","मेथी 40 g","दही 80 g","अलसी 5 g","तेल 5 ml","हल्दी, जीरा, हींग, अदरक"]},
-  {"id":"B002","name":"मूंग-लौकी चीला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 260 kcal, प्रोटीन 13 g, फाइबर 7 g; फोलेट, पोटैशियम, कैल्शियम.","instruction":"भीगी मूंग दाल, लौकी और मसालों का घोल बनाकर 2 छोटे चीले सेकें; दही के साथ दें।","ingredients":["मूंग दाल 35 g","लौकी 100 g","दही 80 g","तेल 5 ml","अजवाइन, हल्दी, अदरक"]},
-  {"id":"B003","name":"बेसन-पालक चीला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 275 kcal, प्रोटीन 13 g, फाइबर 8 g; फोलेट, आयरन, कैल्शियम.","instruction":"बेसन, पालक और दही/पानी से घोल बनाकर 2 छोटे चीले कम तेल में पकाएँ; दही/हरी चटनी के साथ दें।","ingredients":["बेसन 40 g","पालक 60 g","दही 80 g","तेल 5 ml","हींग, जीरा, काली मिर्च"]},
-  {"id":"B004","name":"जौ-अजवाइन सब्ज़ी चीला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 270 kcal, प्रोटीन 10 g, फाइबर 9 g; बीटा-ग्लूकैन, मैग्नीशियम, कैल्शियम.","instruction":"जौ आटा, बारीक मिक्स सब्ज़ी और अजवाइन से घोल बनाकर 2 छोटे चीले सेकें; दही के साथ लें।","ingredients":["जौ आटा 40 g","मिक्स सब्ज़ी 100 g","दही 80 g","तेल 5 ml","अजवाइन, जीरा, अदरक"]},
-  {"id":"B005","name":"बाजरा-दही चीला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 280 kcal, प्रोटीन 10 g, फाइबर 7 g; मैग्नीशियम, आयरन, कैल्शियम.","instruction":"बाजरा आटा और दही से घोल बनाकर शिमला मिर्च मिलाएँ; 2 छोटे चीले कम तेल में पकाएँ।","ingredients":["बाजरा आटा 40 g","शिमला मिर्च 70 g","दही 100 g","तेल 5 ml","जीरा, हरी धनिया, अदरक"]},
-  {"id":"B006","name":"क्विनोआ-बेसन चीला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 295 kcal, प्रोटीन 12 g, फाइबर 7 g; मैग्नीशियम, फोलेट, कैल्शियम.","instruction":"क्विनोआ पाउडर और बेसन का घोल बनाकर कद्दूकस ककड़ी मिलाएँ; 2 छोटे चीले सेकें।","ingredients":["क्विनोआ 30 g","बेसन 20 g","ककड़ी 60 g","दही 70 g","तेल 5 ml","जीरा, काली मिर्च"]},
-  {"id":"B007","name":"राजगीरा-पालक पुदला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 285 kcal, प्रोटीन 11 g, फाइबर 7 g; कैल्शियम, मैग्नीशियम, फोलेट.","instruction":"राजगीरा आटा, पालक और दही से घोल बनाकर 2 छोटे पुदले पकाएँ; ऊपर तिल डालें।","ingredients":["राजगीरा आटा 40 g","पालक 60 g","दही 80 g","तिल 5 g","तेल 5 ml","जीरा, अदरक"]},
-  {"id":"B008","name":"सत्तू-शिमला मिर्च चीला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 255 kcal, प्रोटीन 10 g, फाइबर 7 g; फोलेट, आयरन, विटामिन C.","instruction":"सत्तू, दही और पानी से घोल बनाकर शिमला मिर्च मिलाएँ; 2 छोटे चीले पकाएँ।","ingredients":["सत्तू 30 g","शिमला मिर्च 70 g","दही 90 g","तेल 5 ml","अजवाइन, काली मिर्च"]},
-  {"id":"B009","name":"मूंग-मूली पत्ता चीला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 255 kcal, प्रोटीन 13 g, फाइबर 7 g; फोलेट, विटामिन C, कैल्शियम.","instruction":"मूंग दाल का घोल बनाकर मूली के पत्ते मिलाएँ; 2 छोटे चीले कम तेल में पकाएँ।","ingredients":["मूंग दाल 35 g","मूली पत्ता 50 g","दही 80 g","तेल 5 ml","जीरा, हल्दी, अदरक"]},
-  {"id":"B010","name":"चना दाल-मेथी पैनकेक","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 250 kcal, प्रोटीन 11 g, फाइबर 7 g; फोलेट, मैंगनीज़, कैल्शियम.","instruction":"भीगी चना दाल पीसकर मेथी मिलाएँ; 2 छोटे पैनकेक कम तेल में पकाएँ और दही के साथ दें।","ingredients":["चना दाल 30 g","मेथी 40 g","दही 80 g","तेल 5 ml","अजवाइन, हींग, अदरक"]},
-  {"id":"B011","name":"ज्वार-पनीर भरा चीला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 325 kcal, प्रोटीन 16 g, फाइबर 5 g; कैल्शियम, B12, मैग्नीशियम.","instruction":"ज्वार घोल से 2 पतले चीले बनाकर लो-फैट पनीर और शिमला मिर्च का भरावन भरें; फोल्ड करके हल्का सेकें।","ingredients":["ज्वार आटा 40 g","लो-फैट पनीर 60 g","शिमला मिर्च 50 g","तेल 5 ml","जीरा, अदरक, काली मिर्च"]},
-  {"id":"B012","name":"जौ-तिल चीला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 275 kcal, प्रोटीन 10 g, फाइबर 8 g; बीटा-ग्लूकैन, कैल्शियम, मैग्नीशियम.","instruction":"जौ का घोल बनाकर ककड़ी और तिल मिलाएँ; 2 छोटे चीले कम तेल में पकाएँ।","ingredients":["जौ आटा 40 g","ककड़ी 80 g","तिल 5 g","दही 80 g","तेल 5 ml","जीरा, सौंफ"]},
-  {"id":"B013","name":"कुट्टू-धनिया पुदला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 270 kcal, प्रोटीन 10 g, फाइबर 6 g; मैग्नीशियम, रुटिन, कैल्शियम.","instruction":"कुट्टू आटा और बारीक सब्ज़ी का घोल बनाकर 2 छोटे पुदले कम तेल में पकाएँ।","ingredients":["कुट्टू आटा 40 g","मिक्स सब्ज़ी 90 g","दही 80 g","तेल 5 ml","जीरा, काली मिर्च"]},
-  {"id":"B014","name":"बाजरा-लौकी चीला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 265 kcal, प्रोटीन 10 g, फाइबर 7 g; मैग्नीशियम, आयरन, पोटैशियम.","instruction":"बाजरा आटा, लौकी और मसालों का घोल बनाकर 2 छोटे चीले सेकें; दही के साथ लें।","ingredients":["बाजरा आटा 40 g","लौकी 100 g","दही 80 g","तेल 5 ml","अदरक, अजवाइन"]},
-  {"id":"B015","name":"क्विनोआ-मेथी पुदला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","omega3_support"],"notes":"लगभग 295 kcal, प्रोटीन 11 g, फाइबर 8 g; मैग्नीशियम, फोलेट, ALA ओमेगा-3.","instruction":"क्विनोआ घोल में मेथी और अलसी मिलाकर 2 पुदले कम तेल में पकाएँ।","ingredients":["क्विनोआ 35 g","मेथी 40 g","दही 80 g","अलसी 5 g","तेल 5 ml","जीरा, अदरक"]},
-  {"id":"B016","name":"बेसन-चौलाई चीला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 275 kcal, प्रोटीन 13 g, फाइबर 8 g; फोलेट, आयरन, कैल्शियम.","instruction":"बेसन और चौलाई का घोल बनाकर 2 छोटे चीले कम तेल में पकाएँ।","ingredients":["बेसन 40 g","चौलाई 50 g","दही 80 g","तेल 5 ml","हींग, जीरा"]},
-  {"id":"B017","name":"मूंग-करेला चीला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 250 kcal, प्रोटीन 13 g, फाइबर 7 g; फोलेट, विटामिन C, पोटैशियम.","instruction":"मूंग दाल और बारीक करेला मिलाकर 2 छोटे चीले पकाएँ; दही की छोटी कटोरी के साथ दें।","ingredients":["मूंग दाल 35 g","करेला 70 g","दही 80 g","तेल 5 ml","हल्दी, अजवाइन, अदरक"]},
-  {"id":"B018","name":"ज्वार-कद्दू चीला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 275 kcal, प्रोटीन 10 g, फाइबर 6 g; मैग्नीशियम, बीटा-कैरोटीन, कैल्शियम.","instruction":"ज्वार घोल में कद्दूकस कद्दू मिलाकर 2 छोटे चीले पकाएँ; ऊपर तिल डालें।","ingredients":["ज्वार आटा 40 g","कद्दू 90 g","दही 80 g","तिल 5 g","तेल 5 ml","जीरा, अदरक"]},
-  {"id":"B019","name":"सामा-मिलेट वेज उपमा","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","omega3_support"],"notes":"लगभग 255 kcal, प्रोटीन 8 g, फाइबर 7 g; आयरन, मैग्नीशियम, ALA ओमेगा-3.","instruction":"सामा मिलेट को हल्का भूनें; जीरा, अदरक और सब्ज़ी के साथ कम तेल में पकाकर अंत में अलसी डालें।","ingredients":["सामा मिलेट 40 g","मिक्स सब्ज़ी 120 g","अलसी 5 g","तेल 5 ml","जीरा, अदरक, करी पत्ता"]},
-  {"id":"B020","name":"क्विनोआ सब्ज़ी उपमा","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 275 kcal, प्रोटीन 8 g, फाइबर 6 g; मैग्नीशियम, मैंगनीज़, एंटीऑक्सिडेंट.","instruction":"क्विनोआ को जीरा, अदरक और सब्ज़ी के साथ कम तेल में पकाएँ; ऊपर तिल डालें।","ingredients":["क्विनोआ 45 g","मिक्स सब्ज़ी 120 g","तिल 5 g","तेल 5 ml","जीरा, अदरक"]},
-  {"id":"B021","name":"जौ सब्ज़ी दलिया","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","omega3_support"],"notes":"लगभग 265 kcal, प्रोटीन 9 g, फाइबर 9 g; बीटा-ग्लूकैन, मैग्नीशियम, ALA ओमेगा-3.","instruction":"जौ दलिया और सब्ज़ियाँ धीमी आँच पर पकाएँ; अंत में भुनी अलसी डालें।","ingredients":["जौ दलिया 40 g","मिक्स सब्ज़ी 120 g","अलसी 5 g","तेल 5 ml","जीरा, अदरक, काली मिर्च"]},
-  {"id":"B022","name":"जौ-लौकी नमकीन पोरिज","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 250 kcal, प्रोटीन 9 g, फाइबर 8 g; बीटा-ग्लूकैन, पोटैशियम, कैल्शियम.","instruction":"जौ और लौकी को गाढ़ा नमकीन पोरिज जैसा पकाएँ; ऊपर तिल डालें और दही के साथ लें।","ingredients":["जौ 40 g","लौकी 100 g","तिल 5 g","दही 70 g","तेल 3 ml","जीरा, काली मिर्च"]},
-  {"id":"B023","name":"कंगनी वेज पोंगल","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 265 kcal, प्रोटीन 10 g, फाइबर 6 g; आयरन, फोलेट, मैग्नीशियम.","instruction":"कंगनी और थोड़ी मूंग दाल को गाजर के साथ नरम पकाएँ; जीरा, काली मिर्च और अदरक का हल्का तड़का दें।","ingredients":["कंगनी मिलेट 40 g","मूंग दाल 20 g","गाजर 80 g","तेल 4 ml","जीरा, काली मिर्च, अदरक"]},
-  {"id":"B024","name":"बाजरा-छाछ खीच","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 260 kcal, प्रोटीन 9 g, फाइबर 6 g; मैग्नीशियम, पोटैशियम, कैल्शियम.","instruction":"बाजरा और लौकी को नरम पकाकर अंत में फेंटी हुई दही/छाछ मिलाएँ; उबाल न चढ़ाएँ।","ingredients":["बाजरा 40 g","लौकी 100 g","दही 100 g","तेल 3 ml","जीरा, मेथी दाना, अदरक"]},
-  {"id":"B025","name":"जौ-तिल खिचू","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 245 kcal, प्रोटीन 8 g, फाइबर 8 g; बीटा-ग्लूकैन, कैल्शियम, मैग्नीशियम.","instruction":"जौ आटा और सब्ज़ियों को पानी में गाढ़ा पकाकर खिचू जैसा बनाएं; ऊपर तिल डालें।","ingredients":["जौ 40 g","मिक्स सब्ज़ी 90 g","तिल 5 g","तेल 3 ml","हींग, जीरा, अदरक"]},
-  {"id":"B026","name":"दही-चिया-अमरूद बाउल","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","omega3_support"],"notes":"लगभग 240 kcal, प्रोटीन 9 g, फाइबर 9 g; कैल्शियम, ALA ओमेगा-3, विटामिन C.","instruction":"दही में चिया 10 मिनट भिगोएँ; कटे अमरूद और दालचीनी मिलाकर बिना चीनी के परोसें।","ingredients":["दही 180 g","चिया 8 g","अमरूद 100 g","दालचीनी 1 g"]},
-  {"id":"B027","name":"दही-अलसी-अनार बाउल","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","omega3_support"],"notes":"लगभग 230 kcal, प्रोटीन 9 g, फाइबर 6 g; कैल्शियम, ALA ओमेगा-3, एंटीऑक्सिडेंट.","instruction":"दही को फेंटें; उसमें भुनी पिसी अलसी और अनार डालें; चीनी न डालें।","ingredients":["दही 180 g","अलसी 7 g","अनार 60 g","दालचीनी 1 g"]},
-  {"id":"B028","name":"सत्तू-दही-ककड़ी बाउल","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 240 kcal, प्रोटीन 11 g, फाइबर 6 g; कैल्शियम, फोलेट, पोटैशियम.","instruction":"दही में सत्तू घोलें; ककड़ी, भुना जीरा और बहुत कम काला नमक मिलाकर 5 मिनट रखकर खाएँ।","ingredients":["सत्तू 30 g","दही 150 g","ककड़ी 80 g","भुना जीरा 1 g","काला नमक 1 g"]},
-  {"id":"B029","name":"मूंग स्प्राउट-दही चाट","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 220 kcal, प्रोटीन 11 g, फाइबर 5 g; कैल्शियम, फोलेट, विटामिन C.","instruction":"अंकुरित मूंग को 2–3 मिनट स्टीम करें; दही, शिमला मिर्च, धनिया और नींबू मिलाकर हल्की चाट बनाएं।","ingredients":["अंकुरित हरा मूंग 70 g","दही 120 g","शिमला मिर्च 40 g","धनिया 10 g","नींबू 10 g"]},
-  {"id":"B030","name":"लो-फैट दही के साथ ज्वार ढोकला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 250 kcal, प्रोटीन 9 g, फाइबर 5 g; कैल्शियम, मैग्नीशियम, विटामिन C.","instruction":"ज्वार-दही बैटर में शिमला मिर्च मिलाकर भाप में पकाएँ; ऊपर जीरा-हींग का हल्का तड़का दें।","ingredients":["ज्वार 35 g","दही 120 g","शिमला मिर्च 40 g","तेल 3 ml","ईनो/फ्रूट साल्ट 1 g"]},
-  {"id":"B031","name":"मूंग दाल ढोकला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 235 kcal, प्रोटीन 11 g, फाइबर 5 g; फोलेट, पोटैशियम, कैल्शियम.","instruction":"भीगी मूंग दाल का घोल बनाकर पालक मिलाएँ; भाप में पकाकर दही के साथ दें।","ingredients":["मूंग दाल 35 g","पालक 40 g","दही 80 g","तेल 3 ml","अदरक, जीरा"]},
-  {"id":"B032","name":"बाजरा-मेथी ढोकला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 245 kcal, प्रोटीन 9 g, फाइबर 6 g; मैग्नीशियम, आयरन, फोलेट.","instruction":"बाजरा-दही घोल में मेथी मिलाकर भाप में पकाएँ; ऊपर बहुत हल्का जीरा तड़का दें।","ingredients":["बाजरा 35 g","मेथी 40 g","दही 100 g","तेल 3 ml","अदरक, जीरा"]},
-  {"id":"B033","name":"जौ इडली","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 230 kcal, प्रोटीन 9 g, फाइबर 5 g; बीटा-ग्लूकैन, फोलेट, कैल्शियम.","instruction":"जौ और थोड़ी उड़द का फर्मेंटेड बैटर बनाकर 3 छोटी इडली भाप में पकाएँ; दही/हरी चटनी के साथ लें।","ingredients":["जौ 30 g","उड़द मिश्रण 15 g","दही 80 g","तेल 2 ml","मेथी दाना 1 g"]},
-  {"id":"B034","name":"कोदो मिलेट इडली","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 230 kcal, प्रोटीन 8 g, फाइबर 5 g; फाइबर, पॉलीफेनॉल, कैल्शियम.","instruction":"कोदो और थोड़ी उड़द का बैटर बनाकर 3 छोटी इडली भाप में पकाएँ।","ingredients":["कोदो मिलेट 30 g","उड़द मिश्रण 15 g","दही 80 g","तेल 2 ml","मेथी दाना 1 g"]},
-  {"id":"B035","name":"सामा-पालक इडली","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 230 kcal, प्रोटीन 8 g, फाइबर 5 g; फोलेट, आयरन, कैल्शियम.","instruction":"सामा-उड़द बैटर में पालक मिलाकर 3 छोटी इडली भाप में पकाएँ।","ingredients":["सामा मिलेट 30 g","उड़द मिश्रण 15 g","पालक 30 g","दही 80 g","तेल 2 ml"]},
-  {"id":"B036","name":"हरा मूंग अडई","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 260 kcal, प्रोटीन 12 g, फाइबर 6 g; फोलेट, पोटैशियम, कैल्शियम.","instruction":"हरा मूंग घोल में पालक और तिल मिलाकर 2 छोटे अडई कम तेल में पकाएँ।","ingredients":["मूंग दाल 35 g","पालक 40 g","तिल 5 g","दही 70 g","तेल 4 ml"]},
-  {"id":"B037","name":"पालक-बेसन हांडवो","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 265 kcal, प्रोटीन 12 g, फाइबर 6 g; फोलेट, आयरन, कैल्शियम.","instruction":"बेसन-दही घोल में पालक मिलाकर हांडवो जैसा bake/steam करें; ऊपर तिल डालें।","ingredients":["बेसन 35 g","पालक 50 g","दही 90 g","तिल 5 g","तेल 4 ml"]},
-  {"id":"B038","name":"जौ-पालक हांडवो","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 255 kcal, प्रोटीन 10 g, फाइबर 7 g; बीटा-ग्लूकैन, फोलेट, कैल्शियम.","instruction":"जौ-दही घोल में पालक मिलाकर हांडवो जैसा steam/bake करें; बहुत हल्का तड़का दें।","ingredients":["जौ 35 g","पालक 50 g","दही 90 g","तिल 5 g","तेल 4 ml"]},
-  {"id":"B039","name":"क्विनोआ-पनीर उपमा","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 325 kcal, प्रोटीन 17 g, फाइबर 5 g; कैल्शियम, B12, मैग्नीशियम.","instruction":"क्विनोआ और सब्ज़ी को कम तेल में पकाएँ; अंत में लो-फैट पनीर मिलाएँ।","ingredients":["क्विनोआ 45 g","लो-फैट पनीर 60 g","मिक्स सब्ज़ी 100 g","तेल 4 ml","जीरा, अदरक"]},
-  {"id":"B040","name":"जौ-पुदीना टिक्की","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 250 kcal, प्रोटीन 9 g, फाइबर 7 g; बीटा-ग्लूकैन, कैल्शियम, पोटैशियम.","instruction":"जौ को गाढ़ा पकाकर ककड़ी, पुदीना और तिल मिलाएँ; 4 छोटी टिक्की बनाकर तवे पर सेकें और दही के साथ दें।","ingredients":["जौ 40 g","ककड़ी 50 g","तिल 5 g","दही 80 g","तेल 4 ml","पुदीना, जीरा"]},
-  {"id":"B041","name":"बाजरा-तिल थेपला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 285 kcal, प्रोटीन 10 g, फाइबर 7 g; मैग्नीशियम, फोलेट, कैल्शियम.","instruction":"बाजरा आटा, मेथी और तिल से 2 छोटे थेपले बनाकर कम तेल में सेकें; दही के साथ लें।","ingredients":["बाजरा आटा 45 g","मेथी 35 g","तिल 5 g","दही 80 g","तेल 4 ml"]},
-  {"id":"B042","name":"ज्वार-पालक थेपला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 280 kcal, प्रोटीन 10 g, फाइबर 6 g; मैग्नीशियम, फोलेट, कैल्शियम.","instruction":"ज्वार और पालक से 2 छोटे थेपले बनाकर कम तेल में सेकें; साथ में दही रखें।","ingredients":["ज्वार आटा 45 g","पालक 45 g","दही 90 g","तेल 4 ml","जीरा, अदरक"]},
-  {"id":"B043","name":"चना सत्तू-मेथी पराठा","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 300 kcal, प्रोटीन 12 g, फाइबर 8 g; फोलेट, आयरन, कैल्शियम.","instruction":"ज्वार की लोई में सत्तू-मेथी भरकर सूखा पराठा जैसा तवे पर सेकें; दही के साथ दें।","ingredients":["ज्वार आटा 30 g","सत्तू 30 g","मेथी 35 g","दही 90 g","तेल 4 ml"]},
-  {"id":"B044","name":"जौ-उत्तपम","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 255 kcal, प्रोटीन 9 g, फाइबर 6 g; बीटा-ग्लूकैन, विटामिन C, फोलेट.","instruction":"जौ-दही का गाढ़ा बैटर बनाकर ऊपर शिमला मिर्च और पालक डालें; छोटा उत्तपम कम तेल में पकाएँ।","ingredients":["जौ 35 g","दही 90 g","शिमला मिर्च 40 g","पालक 20 g","तेल 4 ml"]},
-  {"id":"B045","name":"कुट्टू-पनीर ढोकला","tags":["breakfast","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 300 kcal, प्रोटीन 14 g, फाइबर 5 g; कैल्शियम, B12, मैग्नीशियम.","instruction":"कुट्टू-दही बैटर में कद्दूकस लो-फैट पनीर मिलाकर भाप में पकाएँ।","ingredients":["कुट्टू 35 g","लो-फैट पनीर 50 g","दही 90 g","तेल 3 ml","जीरा, अदरक"]},
-  {"id":"B046","name":"वेजिटेबल पोहा","tags":["breakfast","medium_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 235 kcal, प्रोटीन 5 g, फाइबर 4 g; विटामिन C, पोटैशियम, एंटीऑक्सिडेंट.","instruction":"मोटा पोहा धोकर रखें; राई, अदरक और सब्ज़ी के साथ कम तेल में पकाएँ; नींबू डालें।","ingredients":["मोटा पोहा 40 g","मिक्स सब्ज़ी 100 g","तेल 4 ml","हल्दी, अदरक, राई","नींबू 10 g"]},
-  {"id":"B047","name":"दलिया-मेथी उपमा","tags":["breakfast","medium_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 245 kcal, प्रोटीन 8 g, फाइबर 5 g; फोलेट, फाइबर, कैल्शियम.","instruction":"गेहूँ दलिया को मेथी और मसालों के साथ कम तेल में पकाएँ; छोटी कटोरी दही के साथ दें।","ingredients":["गेहूं दलिया 40 g","मेथी 40 g","दही 80 g","तेल 4 ml","जीरा, अदरक"]},
-  {"id":"B048","name":"लाल चावल इडली","tags":["breakfast","medium_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 235 kcal, प्रोटीन 8 g, फाइबर 4 g; मैंगनीज़, फोलेट, कैल्शियम.","instruction":"लाल चावल और थोड़ी उड़द का फर्मेंटेड बैटर बनाकर 3 छोटी इडली भाप में पकाएँ।","ingredients":["लाल चावल 30 g","उड़द मिश्रण 15 g","दही 80 g","तेल 2 ml","मेथी दाना 1 g"]},
-  {"id":"B049","name":"ओट्स-मिलेट इडली","tags":["breakfast","medium_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 235 kcal, प्रोटीन 8 g, फाइबर 5 g; बीटा-ग्लूकैन, आयरन, कैल्शियम.","instruction":"ओट्स और सामा का बैटर बनाकर गाजर के साथ 3 छोटी इडली भाप में पकाएँ।","ingredients":["ओट्स 35 g","सामा मिलेट 20 g","दही 100 g","गाजर 30 g","तेल 2 ml"]},
-  {"id":"B050","name":"रागी-मूंग उत्तपम","tags":["breakfast","medium_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 255 kcal, प्रोटीन 10 g, फाइबर 5 g; कैल्शियम, फोलेट, विटामिन C.","instruction":"रागी और थोड़ी मूंग दाल का घोल बनाकर ऊपर शिमला मिर्च डालें; छोटा उत्तपम कम तेल में पकाएँ।","ingredients":["रागी 40 g","मूंग दाल 20 g","शिमला मिर्च 40 g","दही 70 g","तेल 4 ml"]},
-
-  {"id":"L001","name":"जौ रोटी-लौकी चना दाल थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 355 kcal, प्रोटीन 14 g, फाइबर 10 g; बीटा-ग्लूकैन, फोलेट, कैल्शियम.","instruction":"जौ के आटे की 2 छोटी रोटियाँ बनाएँ; लौकी हल्के मसाले में पकाएँ; साथ में पतली चना दाल और दही दें।","ingredients":["जौ आटा 60 g","लौकी 150 g","चना दाल 25 g","दही 100 g","तेल 5 ml","हल्दी, जीरा, हींग"]},
-  {"id":"L002","name":"ज्वार रोटी-भिंडी दही थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","omega3_support"],"notes":"लगभग 350 kcal, प्रोटीन 12 g, फाइबर 9 g; फोलेट, कैल्शियम, ALA ओमेगा-3.","instruction":"ज्वार की 2 छोटी रोटियाँ बनाएँ; भिंडी सूखी सब्ज़ी कम तेल में पकाएँ; सादा दही और अलसी के साथ परोसें।","ingredients":["ज्वार आटा 60 g","भिंडी 120 g","दही 120 g","अलसी 5 g","तेल 5 ml"]},
-  {"id":"L003","name":"बाजरा रोटी-टिंडा मूंग थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 355 kcal, प्रोटीन 14 g, फाइबर 9 g; मैग्नीशियम, फोलेट, कैल्शियम.","instruction":"बाजरे की 2 छोटी रोटियाँ बनाकर टिंडा हल्के मसाले में पकाएँ; साथ में पतली मूंग दाल और दही दें।","ingredients":["बाजरा आटा 60 g","टिंडा 150 g","मूंग दाल 20 g","दही 100 g","तेल 5 ml"]},
-  {"id":"L004","name":"जौ रोटी-परवल तिल सब्ज़ी थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 345 kcal, प्रोटीन 12 g, फाइबर 9 g; बीटा-ग्लूकैन, कैल्शियम, विटामिन C.","instruction":"जौ की 2 छोटी रोटियाँ बनाकर परवल कम तेल में पकाएँ; ऊपर तिल डालें और दही के साथ परोसें।","ingredients":["जौ आटा 60 g","परवल 130 g","तिल 5 g","दही 100 g","तेल 5 ml"]},
-  {"id":"L005","name":"ज्वार रोटी-तोरई-पनीर थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 395 kcal, प्रोटीन 18 g, फाइबर 7 g; कैल्शियम, B12, पोटैशियम.","instruction":"ज्वार की रोटियाँ बनाएँ; तोरई हल्के मसाले में पकाएँ; साथ में लो-फैट पनीर का छोटा भाग रखें।","ingredients":["ज्वार आटा 60 g","तोरई 150 g","लो-फैट पनीर 60 g","दही 80 g","तेल 5 ml"]},
-  {"id":"L006","name":"बाजरा रोटी-मेथी दही कढ़ी थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","omega3_support"],"notes":"लगभग 360 kcal, प्रोटीन 13 g, फाइबर 8 g; फोलेट, कैल्शियम, ALA ओमेगा-3.","instruction":"बाजरे की 2 छोटी रोटियाँ बनाएँ; मेथी के साथ पकौड़ी-रहित दही कढ़ी बनाकर साथ दें; ऊपर अलसी डालें।","ingredients":["बाजरा आटा 60 g","मेथी 40 g","दही 180 g","अलसी 5 g","तेल 4 ml"]},
-  {"id":"L007","name":"जौ रोटी-ग्वार फली थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 340 kcal, प्रोटीन 12 g, फाइबर 11 g; फोलेट, कैल्शियम, बीटा-ग्लूकैन.","instruction":"जौ की 2 छोटी रोटियाँ बनाएँ; ग्वार फली को जीरा-हींग के साथ पकाएँ; साथ में दही रखें।","ingredients":["जौ आटा 60 g","ग्वार फली 130 g","दही 120 g","तेल 5 ml","जीरा, हींग, अदरक"]},
-  {"id":"L008","name":"ज्वार रोटी-कद्दू-अलसी थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","omega3_support"],"notes":"लगभग 350 kcal, प्रोटीन 12 g, फाइबर 8 g; बीटा-कैरोटीन, कैल्शियम, ALA ओमेगा-3.","instruction":"ज्वार की रोटियाँ बनाएँ; कद्दू को कम तेल में पकाएँ; ऊपर अलसी डालें और दही के साथ दें।","ingredients":["ज्वार आटा 60 g","कद्दू 140 g","अलसी 5 g","दही 100 g","तेल 5 ml"]},
-  {"id":"L009","name":"बाजरा रोटी-भरवां शिमला मिर्च पनीर थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 400 kcal, प्रोटीन 18 g, फाइबर 7 g; कैल्शियम, B12, विटामिन C.","instruction":"बाजरे की 2 छोटी रोटियाँ बनाएँ; शिमला मिर्च में लो-फैट पनीर भरकर ढककर पकाएँ; साथ में दही लें।","ingredients":["बाजरा आटा 60 g","शिमला मिर्च 120 g","लो-फैट पनीर 70 g","दही 80 g","तेल 5 ml"]},
-  {"id":"L010","name":"कुट्टू रोटी-लौकी रायता थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 350 kcal, प्रोटीन 12 g, फाइबर 8 g; मैग्नीशियम, कैल्शियम, फोलेट.","instruction":"कुट्टू की 2 छोटी रोटियाँ बनाएँ; लौकी और पालक हल्के मसाले में पकाएँ; साथ में लौकी रायता दें।","ingredients":["कुट्टू आटा 60 g","लौकी 140 g","पालक 40 g","दही 140 g","तेल 5 ml"]},
-  {"id":"L011","name":"जौ-मूंग खिचड़ी","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 360 kcal, प्रोटीन 14 g, फाइबर 10 g; बीटा-ग्लूकैन, फोलेट, कैल्शियम.","instruction":"जौ, थोड़ी मूंग दाल और सब्ज़ियाँ साथ पकाएँ; ऊपर से दही की छोटी कटोरी के साथ परोसें।","ingredients":["जौ 45 g","मूंग दाल 25 g","मिक्स सब्ज़ी 140 g","दही 80 g","तेल 4 ml"]},
-  {"id":"L012","name":"कंगनी-मूंग सब्ज़ी बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 355 kcal, प्रोटीन 13 g, फाइबर 9 g; आयरन, फोलेट, कैल्शियम.","instruction":"कंगनी, थोड़ी मूंग दाल और सब्ज़ियों को एक साथ पकाकर बाउल बनाएं; दही के साथ दें।","ingredients":["कंगनी 45 g","मूंग दाल 20 g","मिक्स सब्ज़ी 140 g","दही 80 g","तेल 4 ml"]},
-  {"id":"L013","name":"क्विनोआ-मिक्स वेज पुलाव दही के साथ","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","omega3_support"],"notes":"लगभग 365 kcal, प्रोटीन 12 g, फाइबर 7 g; मैग्नीशियम, कैल्शियम, ALA ओमेगा-3.","instruction":"क्विनोआ और सब्ज़ियों का हल्का पुलाव बनाएँ; ऊपर अलसी डालें और सादा दही साथ रखें।","ingredients":["क्विनोआ 50 g","मिक्स सब्ज़ी 140 g","दही 100 g","अलसी 5 g","तेल 4 ml"]},
-  {"id":"L014","name":"सामा-मिलेट लौकी खिचड़ी","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 335 kcal, प्रोटीन 12 g, फाइबर 8 g; आयरन, मैग्नीशियम, पोटैशियम.","instruction":"सामा, लौकी और थोड़ी मूंग दाल को नरम खिचड़ी जैसा पकाएँ; साथ में दही दें।","ingredients":["सामा 45 g","लौकी 150 g","मूंग दाल 20 g","दही 80 g","तेल 4 ml"]},
-  {"id":"L015","name":"कोदो-पालक मूंग बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 340 kcal, प्रोटीन 13 g, फाइबर 9 g; फोलेट, आयरन, कैल्शियम.","instruction":"कोदो, पालक और थोड़ी मूंग दाल को एक साथ पकाकर thick bowl बनाएं; दही के साथ लें।","ingredients":["कोदो मिलेट 45 g","पालक 70 g","मूंग दाल 20 g","दही 80 g","तेल 4 ml"]},
-  {"id":"L016","name":"ज्वार-चना दाल पुलाव","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 350 kcal, प्रोटीन 12 g, फाइबर 8 g; फोलेट, मैंगनीज़, कैल्शियम.","instruction":"ज्वार दलिया, थोड़ी चना दाल और सब्ज़ियों को साथ पकाकर पुलाव बनाएं; दही के साथ दें।","ingredients":["ज्वार 45 g","चना दाल 20 g","मिक्स सब्ज़ी 140 g","दही 80 g","तेल 4 ml"]},
-  {"id":"L017","name":"बाजरा-दही कढ़ी बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","omega3_support"],"notes":"लगभग 330 kcal, प्रोटीन 11 g, फाइबर 7 g; कैल्शियम, पोटैशियम, ALA ओमेगा-3.","instruction":"बाजरा पकाकर रखें; लौकी वाली पतली दही कढ़ी बनाकर ऊपर अलसी डालें और बाउल में परोसें।","ingredients":["बाजरा 40 g","दही 180 g","लौकी 120 g","अलसी 5 g","तेल 4 ml"]},
-  {"id":"L018","name":"जौ-पालक कढ़ी बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 325 kcal, प्रोटीन 11 g, फाइबर 8 g; फोलेट, कैल्शियम, बीटा-ग्लूकैन.","instruction":"जौ पकाकर रखें; पालक वाली पतली दही कढ़ी बनाकर बाउल में परोसें।","ingredients":["जौ 40 g","पालक 70 g","दही 180 g","तेल 4 ml","जीरा, हींग, हल्दी"]},
-  {"id":"L019","name":"क्विनोआ-पनीर सब्ज़ी बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 390 kcal, प्रोटीन 19 g, फाइबर 6 g; कैल्शियम, B12, मैग्नीशियम.","instruction":"क्विनोआ और सब्ज़ियाँ पकाएँ; अंत में लो-फैट पनीर मिलाकर बाउल बनाएं।","ingredients":["क्विनोआ 45 g","लो-फैट पनीर 70 g","मिक्स सब्ज़ी 140 g","तेल 4 ml","जीरा, अदरक"]},
-  {"id":"L020","name":"जौ-तोरई मूंग दाल बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 350 kcal, प्रोटीन 13 g, फाइबर 9 g; बीटा-ग्लूकैन, फोलेट, पोटैशियम.","instruction":"जौ, तोरई और थोड़ी मूंग दाल को साथ पकाकर बाउल बनाएं; नमक सीमित रखें।","ingredients":["जौ 45 g","तोरई 150 g","मूंग दाल 20 g","दही 70 g","तेल 4 ml"]},
-  {"id":"L021","name":"ज्वार-भिंडी दही बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 335 kcal, प्रोटीन 11 g, फाइबर 8 g; फोलेट, कैल्शियम, मैग्नीशियम.","instruction":"ज्वार दलिया और भिंडी पकाकर बाउल बनाएं; ऊपर तिल डालें और दही मिलाएँ।","ingredients":["ज्वार 45 g","भिंडी 120 g","दही 120 g","तिल 5 g","तेल 4 ml"]},
-  {"id":"L022","name":"बाजरा-बथुआ कढ़ी बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 300 kcal, प्रोटीन 12 g, फाइबर 7 g; कैल्शियम, फोलेट, मैग्नीशियम.","instruction":"बाजरा पकाकर रखें; दही में बथुआ मिलाकर पतली कढ़ी बनाएं और बाउल में परोसें।","ingredients":["बाजरा 40 g","बथुआ 70 g","दही 180 g","तेल 4 ml","जीरा, हींग, हल्दी"]},
-  {"id":"L023","name":"जौ-पालक-पनीर ग्रेन बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 385 kcal, प्रोटीन 18 g, फाइबर 8 g; कैल्शियम, B12, फोलेट.","instruction":"जौ और पालक पकाकर उसमें लो-फैट पनीर मिलाएँ; एक thick grain bowl बनाएं।","ingredients":["जौ 45 g","पालक 70 g","लो-फैट पनीर 70 g","तेल 4 ml","जीरा, अदरक"]},
-  {"id":"L024","name":"कंगनी-गाजर-मटर बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 330 kcal, प्रोटीन 10 g, फाइबर 8 g; फोलेट, विटामिन A, कैल्शियम.","instruction":"कंगनी और गाजर-मटर को साथ पकाएँ; ऊपर दही डालकर परोसें।","ingredients":["कंगनी 45 g","गाजर-मटर 100 g","दही 100 g","तेल 4 ml","जीरा, काली मिर्च"]},
-  {"id":"L025","name":"क्विनोआ-लौकी-चना दाल बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 360 kcal, प्रोटीन 13 g, फाइबर 8 g; मैग्नीशियम, फोलेट, कैल्शियम.","instruction":"क्विनोआ, लौकी और थोड़ी चना दाल को साथ पकाकर bowl meal की तरह खाएँ।","ingredients":["क्विनोआ 45 g","लौकी 150 g","चना दाल 20 g","दही 80 g","तेल 4 ml"]},
-  {"id":"L026","name":"जौ-टोफू-शिमला मिर्च बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 340 kcal, प्रोटीन 15 g, फाइबर 7 g; कैल्शियम, आयरन, विटामिन C.","instruction":"जौ पकाएँ; शिमला मिर्च और टोफू को हल्का भूनकर उसमें मिलाएँ; नमक कम रखें।","ingredients":["जौ 45 g","टोफू 70 g","शिमला मिर्च 100 g","तेल 4 ml","जीरा, अदरक"]},
-  {"id":"L027","name":"बाजरा-तिल भिंडी बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 335 kcal, प्रोटीन 11 g, फाइबर 8 g; मैग्नीशियम, फोलेट, कैल्शियम.","instruction":"बाजरा और भिंडी को अलग-अलग पकाकर बाउल में मिलाएँ; ऊपर तिल और दही डालें।","ingredients":["बाजरा 45 g","भिंडी 120 g","तिल 5 g","दही 100 g","तेल 4 ml"]},
-  {"id":"L028","name":"ज्वार-सरसों साग थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 345 kcal, प्रोटीन 12 g, फाइबर 8 g; फोलेट, विटामिन K, कैल्शियम.","instruction":"ज्वार की रोटियाँ बनाएँ; सरसों साग को जीरा-अदरक के साथ पकाएँ; दही के साथ परोसें।","ingredients":["ज्वार आटा 60 g","सरसों साग 100 g","दही 100 g","तेल 5 ml","अदरक, जीरा"]},
-  {"id":"L029","name":"जौ-चना सत्तू कढ़ी बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 325 kcal, प्रोटीन 12 g, फाइबर 8 g; फोलेट, कैल्शियम, बीटा-ग्लूकैन.","instruction":"जौ पकाकर रखें; दही-सत्तू की पतली कढ़ी बनाएं; ककड़ी मिलाकर बाउल सर्व करें।","ingredients":["जौ 40 g","सत्तू 20 g","दही 180 g","ककड़ी 80 g","तेल 4 ml"]},
-  {"id":"L030","name":"मूंग दाल-पालक स्टू के साथ ज्वार भाखरी","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 365 kcal, प्रोटीन 15 g, फाइबर 9 g; फोलेट, कैल्शियम, मैग्नीशियम.","instruction":"ज्वार की छोटी भाखरी बनाएँ; पालक वाली पतली मूंग दाल स्टू बनाकर साथ दें।","ingredients":["ज्वार आटा 60 g","मूंग दाल 25 g","पालक 70 g","दही 80 g","तेल 5 ml"]},
-  {"id":"L031","name":"लो-फैट पनीर-लौकी कोफ्ता ज्वार रोटी के साथ","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 405 kcal, प्रोटीन 18 g, फाइबर 6 g; कैल्शियम, B12, पोटैशियम.","instruction":"लो-फैट पनीर और लौकी के baked कोफ्ते बनाकर दही ग्रेवी में डालें; साथ में ज्वार रोटी दें।","ingredients":["ज्वार आटा 60 g","लो-फैट पनीर 70 g","लौकी 150 g","दही 80 g","तेल 5 ml"]},
-  {"id":"L032","name":"जौ-मेथी थेपला दही के साथ","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","omega3_support"],"notes":"लगभग 350 kcal, प्रोटीन 12 g, फाइबर 9 g; बीटा-ग्लूकैन, फोलेट, ALA ओमेगा-3.","instruction":"जौ आटा, मेथी और मसालों से 2 छोटे थेपले बनाकर सेकें; ऊपर अलसी डालें और दही के साथ दें।","ingredients":["जौ आटा 60 g","मेथी 40 g","दही 120 g","अलसी 5 g","तेल 5 ml"]},
-  {"id":"L033","name":"ज्वार-करेला सूखी सब्ज़ी थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 335 kcal, प्रोटीन 11 g, फाइबर 8 g; विटामिन C, पॉलीफेनॉल, कैल्शियम.","instruction":"ज्वार की रोटियाँ बनाएँ; करेला को अजवाइन और हल्दी के साथ कम तेल में पकाएँ; दही के साथ परोसें।","ingredients":["ज्वार आटा 60 g","करेला 120 g","दही 120 g","तेल 5 ml","हल्दी, अजवाइन"]},
-  {"id":"L034","name":"बाजरा-कद्दू-टमाटर थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 340 kcal, प्रोटीन 11 g, फाइबर 7 g; बीटा-कैरोटीन, लाइकोपीन, कैल्शियम.","instruction":"बाजरे की 2 छोटी रोटियाँ बनाएँ; कद्दू-टमाटर की सब्ज़ी कम तेल में पकाएँ; ऊपर तिल डालें और दही साथ रखें।","ingredients":["बाजरा आटा 60 g","कद्दू-टमाटर 120 g","दही 120 g","तिल 5 g","तेल 5 ml"]},
-  {"id":"L035","name":"जौ-पत्तागोभी चना पुलाव","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 345 kcal, प्रोटीन 12 g, फाइबर 8 g; फोलेट, विटामिन C, कैल्शियम.","instruction":"जौ, पत्तागोभी और थोड़ी चना दाल के साथ हल्का पुलाव बनाएं; दही साथ रखें।","ingredients":["जौ 45 g","पत्तागोभी 120 g","चना दाल 20 g","दही 80 g","तेल 4 ml"]},
-  {"id":"L036","name":"क्विनोआ-तोरई-पुदीना बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 325 kcal, प्रोटीन 11 g, फाइबर 6 g; मैग्नीशियम, पोटैशियम, कैल्शियम.","instruction":"क्विनोआ और तोरई को पुदीना, जीरा और अदरक के साथ पकाकर हल्का बाउल बनाएं।","ingredients":["क्विनोआ 45 g","तोरई 120 g","दही 90 g","तेल 4 ml","जीरा, काली मिर्च"]},
-  {"id":"L037","name":"कुट्टू-पालक रोटी दही के साथ","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 345 kcal, प्रोटीन 12 g, फाइबर 8 g; मैग्नीशियम, फोलेट, कैल्शियम.","instruction":"कुट्टू-पालक की 2 छोटी रोटियाँ बनाएं; दही के साथ लें।","ingredients":["कुट्टू आटा 60 g","पालक 80 g","दही 120 g","तेल 5 ml","जीरा, अदरक"]},
-  {"id":"L038","name":"जौ-अमरनाथ पत्ता पुलाव","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 325 kcal, प्रोटीन 11 g, फाइबर 8 g; फोलेट, कैल्शियम, बीटा-ग्लूकैन.","instruction":"जौ और अमरनाथ पत्ते को साथ पकाकर हल्का पुलाव बनाएं; ऊपर तिल डालें।","ingredients":["जौ 45 g","अमरनाथ पत्ता 60 g","दही 90 g","तिल 5 g","तेल 4 ml"]},
-  {"id":"L039","name":"ज्वार-ककड़ी रायता थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 340 kcal, प्रोटीन 11 g, फाइबर 7 g; कैल्शियम, विटामिन C, मैग्नीशियम.","instruction":"ज्वार रोटियाँ और मिक्स सब्ज़ी के साथ ककड़ी रायता परोसें; नमक सीमित रखें।","ingredients":["ज्वार आटा 60 g","मिक्स सब्ज़ी 140 g","दही 140 g","ककड़ी 80 g","तेल 5 ml"]},
-  {"id":"L040","name":"बाजरा-शलगम सब्ज़ी थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 335 kcal, प्रोटीन 11 g, फाइबर 7 g; विटामिन C, फाइबर, कैल्शियम.","instruction":"बाजरे की रोटियाँ बनाएँ; शलगम हल्के मसालों में पकाएँ; दही के साथ खाएँ।","ingredients":["बाजरा आटा 60 g","शलगम 100 g","दही 120 g","तेल 5 ml","जीरा, अदरक"]},
-  {"id":"L041","name":"जौ-कद्दू-मूंग स्टू","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 335 kcal, प्रोटीन 12 g, फाइबर 8 g; बीटा-कैरोटीन, फोलेट, बीटा-ग्लूकैन.","instruction":"जौ, कद्दू और थोड़ी मूंग दाल को साथ पकाकर thick stew बनाएं; दही साथ रखें।","ingredients":["जौ 45 g","कद्दू 120 g","मूंग दाल 20 g","दही 80 g","तेल 4 ml"]},
-  {"id":"L042","name":"कंगनी-कढ़ी बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 310 kcal, प्रोटीन 10 g, फाइबर 6 g; कैल्शियम, पोटैशियम, आयरन.","instruction":"कंगनी पकाकर रखें; लौकी वाली पतली दही कढ़ी बनाकर बाउल में डालें।","ingredients":["कंगनी 40 g","दही 180 g","लौकी 120 g","तेल 4 ml","जीरा, हींग, हल्दी"]},
-  {"id":"L043","name":"ज्वार-पनीर-पालक थाली","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 400 kcal, प्रोटीन 18 g, फाइबर 7 g; कैल्शियम, B12, फोलेट.","instruction":"ज्वार की रोटियाँ बनाएँ; पालक-पनीर को बिना क्रीम के हल्का पकाएँ; दही की छोटी कटोरी साथ रखें।","ingredients":["ज्वार आटा 60 g","लो-फैट पनीर 70 g","पालक 80 g","दही 80 g","तेल 5 ml"]},
-  {"id":"L044","name":"जौ-धनिया दाल सूप के साथ रोटी","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 350 kcal, प्रोटीन 13 g, फाइबर 8 g; फोलेट, कैल्शियम, बीटा-ग्लूकैन.","instruction":"जौ की रोटियाँ बनाएँ; पतला मूंग-धनिया सूप और शिमला मिर्च सब्ज़ी के साथ परोसें।","ingredients":["जौ आटा 60 g","मूंग दाल 20 g","शिमला मिर्च 80 g","दही 80 g","तेल 5 ml"]},
-  {"id":"L045","name":"बाजरा-लौकी-टमाटर बाउल","tags":["lunch","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 320 kcal, प्रोटीन 10 g, फाइबर 7 g; पोटैशियम, विटामिन C, मैग्नीशियम.","instruction":"बाजरा, लौकी और टमाटर को साथ पकाकर बाउल बनाएं; चाहें तो थोड़ा आंवला कद्दूकस करें।","ingredients":["बाजरा 45 g","लौकी 140 g","दही 100 g","आंवला 30 g","तेल 4 ml"]},
-  {"id":"L046","name":"ब्राउन राइस-सांभर सब्ज़ी बाउल","tags":["lunch","medium_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 330 kcal, प्रोटीन 10 g, फाइबर 6 g; मैंगनीज़, फोलेट, पोटैशियम.","instruction":"ब्राउन राइस का छोटा भाग रखें; बिना प्याज़-लहसुन वाला पतला सब्ज़ी सांभर ऊपर डालकर बाउल बनाएं।","ingredients":["ब्राउन राइस 45 g","मिक्स सब्ज़ी 150 g","मूंग दाल 20 g","तेल 4 ml","इमली बहुत कम, सांभर मसाला बिना लहसुन"]},
-  {"id":"L047","name":"लाल चावल-दही कढ़ी बाउल","tags":["lunch","medium_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 325 kcal, प्रोटीन 10 g, फाइबर 5 g; कैल्शियम, मैंगनीज़, पोटैशियम.","instruction":"लाल चावल के छोटे हिस्से के साथ लौकी वाली पतली दही कढ़ी परोसें।","ingredients":["लाल चावल 45 g","दही 180 g","लौकी 120 g","तेल 4 ml","जीरा, हींग, हल्दी"]},
-  {"id":"L048","name":"दलिया-मूंग खिचड़ी","tags":["lunch","medium_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 330 kcal, प्रोटीन 12 g, फाइबर 7 g; फाइबर, फोलेट, कैल्शियम.","instruction":"गेहूँ दलिया, थोड़ी मूंग दाल और सब्ज़ियों को साथ नरम पकाएँ; दही के साथ लें।","ingredients":["गेहूँ दलिया 40 g","मूंग दाल 20 g","मिक्स सब्ज़ी 140 g","दही 80 g","तेल 4 ml"]},
-  {"id":"L049","name":"गेहूं-मेथी थेपला दही के साथ","tags":["lunch","medium_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 335 kcal, प्रोटीन 11 g, फाइबर 6 g; फोलेट, कैल्शियम, फाइबर.","instruction":"साबुत गेहूँ और मेथी से 2 छोटे थेपले बनाकर सूखे सेकें; दही के साथ लें।","ingredients":["साबुत गेहूँ आटा 60 g","मेथी 40 g","दही 120 g","तेल 5 ml","अजवाइन, जीरा, अदरक"]},
-  {"id":"L050","name":"लाल चावल इडली-सब्ज़ी सांभर थाली","tags":["lunch","medium_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 335 kcal, प्रोटीन 11 g, फाइबर 5 g; मैंगनीज़, फोलेट, कैल्शियम.","instruction":"3 छोटी लाल चावल इडली बनाएं; साथ में बिना प्याज़-लहसुन का पतला सब्ज़ी सांभर और दही दें।","ingredients":["लाल चावल 35 g","उड़द मिश्रण 15 g","मिक्स सब्ज़ी 120 g","दही 80 g","तेल 4 ml"]},
-
-  {"id":"D001","name":"लौकी-मूंग सूप बाउल","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 220 kcal, प्रोटीन 10 g, फाइबर 5 g; पोटैशियम, फोलेट, कैल्शियम.","instruction":"लौकी और थोड़ी मूंग दाल को नरम पकाकर सूप जैसा बनाएं; ऊपर काली मिर्च डालें।","ingredients":["लौकी 180 g","मूंग दाल 20 g","दही 70 g","तेल 3 ml","अदरक, जीरा, काली मिर्च"]},
-  {"id":"D002","name":"तोरई-दही कढ़ी बाउल","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 230 kcal, प्रोटीन 9 g, फाइबर 5 g; कैल्शियम, पोटैशियम, बीटा-ग्लूकैन.","instruction":"तोरई और थोड़े जौ के साथ पतली दही कढ़ी बनाएं; हल्का गरम परोसें।","ingredients":["तोरई 180 g","दही 180 g","जौ 25 g","तेल 3 ml","जीरा, हींग, हल्दी"]},
-  {"id":"D003","name":"जौ-लौकी खिचड़ी","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 250 kcal, प्रोटीन 10 g, फाइबर 7 g; बीटा-ग्लूकैन, पोटैशियम, फोलेट.","instruction":"जौ, लौकी और थोड़ी मूंग दाल को नरम खिचड़ी जैसा पकाएँ; घी न डालें।","ingredients":["जौ 35 g","लौकी 160 g","मूंग दाल 18 g","तेल 3 ml","जीरा, अदरक"]},
-  {"id":"D004","name":"ज्वार रोटी-भिंडी सूखी सब्ज़ी","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 300 kcal, प्रोटीन 10 g, फाइबर 7 g; फोलेट, कैल्शियम, मैग्नीशियम.","instruction":"1-2 छोटी ज्वार रोटियाँ और भिंडी की हल्की सूखी सब्ज़ी बनाएं; दही के साथ लें।","ingredients":["ज्वार आटा 50 g","भिंडी 130 g","दही 100 g","तेल 4 ml","जीरा, सौंफ"]},
-  {"id":"D005","name":"बाजरा रोटी-टिंडा सब्ज़ी","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 300 kcal, प्रोटीन 10 g, फाइबर 7 g; मैग्नीशियम, कैल्शियम, पोटैशियम.","instruction":"1-2 छोटी बाजरा रोटियाँ बनाकर टिंडा हल्के मसालों में पकाएँ; दही साथ रखें।","ingredients":["बाजरा आटा 50 g","टिंडा 150 g","दही 100 g","तेल 4 ml","जीरा, अदरक"]},
-  {"id":"D006","name":"पनीर-पालक शोरबा","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 255 kcal, प्रोटीन 16 g, फाइबर 4 g; कैल्शियम, B12, फोलेट.","instruction":"पालक को अदरक और जीरा के साथ पकाकर मसलें; अंत में लो-फैट पनीर डालकर 2 मिनट उबालें।","ingredients":["लो-फैट पनीर 70 g","पालक 100 g","दही 60 g","तेल 3 ml","अदरक, काली मिर्च, जीरा"]},
-  {"id":"D007","name":"कद्दू-अदरक सूप और बेसन मिनी चीला","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 235 kcal, प्रोटीन 8 g, फाइबर 5 g; बीटा-कैरोटीन, कैल्शियम, फोलेट.","instruction":"कद्दू-अदरक का सूप बनाएं; साथ में 1 छोटा बेसन चीला कम तेल में पकाकर दें।","ingredients":["कद्दू 180 g","बेसन 20 g","दही 70 g","तेल 3 ml","अदरक, जीरा"]},
-  {"id":"D008","name":"जौ-पत्तागोभी स्ट्यू","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 220 kcal, प्रोटीन 8 g, फाइबर 7 g; बीटा-ग्लूकैन, विटामिन C, कैल्शियम.","instruction":"जौ और पत्तागोभी को नरम पकाकर हल्का स्ट्यू बनाएं; काली मिर्च डालें।","ingredients":["जौ 30 g","पत्तागोभी 160 g","दही 80 g","तेल 3 ml","जीरा, काली मिर्च"]},
-  {"id":"D009","name":"क्विनोआ-पनीर हल्का बाउल","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 300 kcal, प्रोटीन 17 g, फाइबर 5 g; कैल्शियम, B12, मैग्नीशियम.","instruction":"क्विनोआ और सब्ज़ियाँ पकाएँ; अंत में लो-फैट पनीर मिलाकर हल्का dinner bowl बनाएं।","ingredients":["क्विनोआ 35 g","लो-फैट पनीर 60 g","मिक्स सब्ज़ी 140 g","तेल 3 ml","जीरा, अदरक"]},
-  {"id":"D010","name":"सामा-मूंग हल्की खिचड़ी","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 245 kcal, प्रोटीन 10 g, फाइबर 6 g; आयरन, फोलेट, पोटैशियम.","instruction":"सामा, लौकी और थोड़ी मूंग दाल को बहुत नरम पकाएँ; dinner के लिए हल्का रखें।","ingredients":["सामा 35 g","मूंग दाल 18 g","लौकी 160 g","तेल 3 ml","जीरा, अदरक"]},
-  {"id":"D011","name":"मूंग दाल-मेथी सूप","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 220 kcal, प्रोटीन 10 g, फाइबर 5 g; फोलेट, कैल्शियम, पोटैशियम.","instruction":"मेथी और थोड़ी मूंग दाल को साथ पकाकर पतला सूप बनाएं; काली मिर्च डालें।","ingredients":["मूंग दाल 20 g","मेथी 40 g","दही 70 g","तेल 3 ml","जीरा, काली मिर्च"]},
-  {"id":"D012","name":"टमाटर-गाजर शोरबा और ज्वार ढोकला","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 235 kcal, प्रोटीन 8 g, फाइबर 5 g; बीटा-कैरोटीन, लाइकोपीन, कैल्शियम.","instruction":"टमाटर-गाजर शोरबा बनाएं; साथ में 2 छोटे ज्वार ढोकला रखें।","ingredients":["गाजर 120 g","टमाटर 80 g","ज्वार 25 g","दही 80 g","तेल 3 ml"]},
-  {"id":"D013","name":"लो-फैट कढ़ी-लौकी बाउल","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 225 kcal, प्रोटीन 9 g, फाइबर 5 g; कैल्शियम, पोटैशियम, बीटा-ग्लूकैन.","instruction":"लौकी वाली पतली दही कढ़ी बनाएं; थोड़े जौ के साथ बाउल में परोसें।","ingredients":["दही 180 g","लौकी 160 g","जौ 25 g","तेल 3 ml","जीरा, हींग, हल्दी"]},
-  {"id":"D014","name":"जौ-परवल स्ट्यू","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 220 kcal, प्रोटीन 8 g, फाइबर 6 g; बीटा-ग्लूकैन, विटामिन C, कैल्शियम.","instruction":"परवल और जौ को नरम पकाकर stew जैसा बनाएँ; नमक कम रखें।","ingredients":["जौ 30 g","परवल 160 g","दही 80 g","तेल 3 ml","जीरा, अदरक"]},
-  {"id":"D015","name":"ज्वार-पुदीना रोटी और तोरई","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 290 kcal, प्रोटीन 10 g, फाइबर 6 g; मैग्नीशियम, पोटैशियम, कैल्शियम.","instruction":"1-2 छोटी ज्वार-पुदीना रोटियाँ बनाकर तोरई की हल्की सब्ज़ी के साथ खाएँ।","ingredients":["ज्वार आटा 50 g","तोरई 160 g","दही 100 g","तेल 4 ml","पुदीना, जीरा"]},
-  {"id":"D016","name":"बाजरा-पालक खिचड़ी","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 255 kcal, प्रोटीन 10 g, फाइबर 7 g; फोलेट, आयरन, मैग्नीशियम.","instruction":"बाजरा, पालक और थोड़ी मूंग दाल को साथ पकाकर हल्की dinner khichdi बनाएं।","ingredients":["बाजरा 35 g","पालक 90 g","मूंग दाल 18 g","तेल 3 ml","जीरा, अदरक"]},
-  {"id":"D017","name":"कुट्टू रोटी-कद्दू तिल सब्ज़ी","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 300 kcal, प्रोटीन 10 g, फाइबर 6 g; बीटा-कैरोटीन, कैल्शियम, मैग्नीशियम.","instruction":"1-2 छोटी कुट्टू रोटियाँ बनाएं; कद्दू की सब्ज़ी में तिल डालकर पकाएँ; दही के साथ लें।","ingredients":["कुट्टू आटा 50 g","कद्दू 150 g","तिल 5 g","दही 100 g","तेल 4 ml"]},
-  {"id":"D018","name":"जौ-दही नमकीन पोरिज","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 220 kcal, प्रोटीन 9 g, फाइबर 6 g; बीटा-ग्लूकैन, कैल्शियम, पोटैशियम.","instruction":"जौ को गाढ़ा पकाकर दही, ककड़ी और भुना जीरा मिलाएँ; बिना ज्यादा नमक के लें।","ingredients":["जौ 30 g","दही 180 g","ककड़ी 80 g","तेल 2 ml","भुना जीरा, पुदीना"]},
-  {"id":"D019","name":"पनीर-शिमला मिर्च हल्की सब्ज़ी","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 285 kcal, प्रोटीन 16 g, फाइबर 5 g; कैल्शियम, B12, विटामिन C.","instruction":"लो-फैट पनीर और शिमला मिर्च को हल्का भूनकर थोड़े ज्वार दलिया के साथ बाउल बनाएं।","ingredients":["लो-फैट पनीर 70 g","शिमला मिर्च 110 g","ज्वार 40 g","तेल 3 ml","जीरा, काली मिर्च"]},
-  {"id":"D020","name":"क्विनोआ-तोरई बाउल","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 255 kcal, प्रोटीन 9 g, फाइबर 5 g; मैग्नीशियम, पोटैशियम, कैल्शियम.","instruction":"क्विनोआ और तोरई को साथ पकाकर हल्का बाउल बनाएं; दही की छोटी कटोरी साथ रखें।","ingredients":["क्विनोआ 35 g","तोरई 160 g","दही 80 g","तेल 3 ml","जीरा, अदरक"]},
-  {"id":"D021","name":"जौ-मेथी सूप","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 215 kcal, प्रोटीन 8 g, फाइबर 7 g; फोलेट, बीटा-ग्लूकैन, कैल्शियम.","instruction":"मेथी और जौ को साथ पकाकर ब्लेंड/मसलें; ऊपर काली मिर्च डालें।","ingredients":["जौ 30 g","मेथी 50 g","दही 70 g","तेल 3 ml","जीरा, काली मिर्च"]},
-  {"id":"D022","name":"मूंग-पालक ढोकला और दही","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 230 kcal, प्रोटीन 11 g, फाइबर 5 g; फोलेट, कैल्शियम, पोटैशियम.","instruction":"मूंग दाल और पालक का ढोकला भाप में पकाएँ; दही के साथ dinner snack-meal की तरह लें।","ingredients":["मूंग दाल 25 g","पालक 50 g","दही 120 g","तेल 3 ml","जीरा, अदरक"]},
-  {"id":"D023","name":"जौ-भिंडी-तिल बाउल","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 250 kcal, प्रोटीन 9 g, फाइबर 7 g; बीटा-ग्लूकैन, फोलेट, कैल्शियम.","instruction":"जौ और भिंडी का हल्का bowl बनाकर ऊपर तिल डालें; दही की छोटी कटोरी साथ रखें।","ingredients":["जौ 35 g","भिंडी 130 g","तिल 5 g","दही 80 g","तेल 3 ml"]},
-  {"id":"D024","name":"लो-फैट पनीर लौकी भुर्जी","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 285 kcal, प्रोटीन 16 g, फाइबर 4 g; कैल्शियम, B12, पोटैशियम.","instruction":"लो-फैट पनीर और लौकी को हल्के मसालों में scramble-style पकाएँ; थोड़े ज्वार दलिया के साथ लें।","ingredients":["लो-फैट पनीर 70 g","लौकी 160 g","ज्वार 35 g","तेल 3 ml","जीरा, अदरक"]},
-  {"id":"D025","name":"बाजरा-करेला सब्ज़ी और रायता","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 290 kcal, प्रोटीन 10 g, फाइबर 7 g; पॉलीफेनॉल, विटामिन C, कैल्शियम.","instruction":"1-2 छोटी बाजरा रोटियाँ बनाकर करेले की हल्की सब्ज़ी और ककड़ी रायते के साथ लें।","ingredients":["बाजरा आटा 50 g","करेला 120 g","दही 130 g","तेल 4 ml","अजवाइन, हल्दी"]},
-  {"id":"D026","name":"ज्वार-पालक फुल्का और परवल","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 295 kcal, प्रोटीन 10 g, फाइबर 7 g; फोलेट, कैल्शियम, विटामिन C.","instruction":"ज्वार-पालक फुल्का बना लें; साथ में परवल की हल्की सब्ज़ी और थोड़ी दही रखें।","ingredients":["ज्वार आटा 50 g","पालक 40 g","परवल 140 g","दही 80 g","तेल 4 ml"]},
-  {"id":"D027","name":"कंगनी-लौकी पोंगल","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 245 kcal, प्रोटीन 10 g, फाइबर 6 g; पोटैशियम, फोलेट, आयरन.","instruction":"कंगनी, लौकी और थोड़ी मूंग दाल को बहुत नरम पकाएँ; काली मिर्च और अदरक डालें।","ingredients":["कंगनी 35 g","लौकी 160 g","मूंग दाल 18 g","तेल 3 ml","जीरा, काली मिर्च, अदरक"]},
-  {"id":"D028","name":"जौ-कढ़ी बाउल","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 220 kcal, प्रोटीन 8 g, फाइबर 5 g; कैल्शियम, बीटा-ग्लूकैन, पोटैशियम.","instruction":"थोड़ा जौ पकाकर ककड़ी वाली पतली दही कढ़ी के साथ bowl meal की तरह परोसें।","ingredients":["जौ 30 g","दही 180 g","ककड़ी 80 g","तेल 3 ml","जीरा, हींग"]},
-  {"id":"D029","name":"टमाटर-पालक सूप और बेसन ढोकला","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 230 kcal, प्रोटीन 9 g, फाइबर 5 g; लाइकोपीन, फोलेट, कैल्शियम.","instruction":"टमाटर-पालक सूप बनाकर 2 छोटे बेसन ढोकला के साथ dinner में लें।","ingredients":["पालक 80 g","बेसन 20 g","दही 100 g","टमाटर 120 g","तेल 3 ml"]},
-  {"id":"D030","name":"तिल-पनीर भरी शिमला मिर्च","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 265 kcal, प्रोटीन 15 g, फाइबर 4 g; कैल्शियम, B12, विटामिन C.","instruction":"शिमला मिर्च में लो-फैट पनीर और तिल भरकर ढककर पकाएँ; दही के साथ लें।","ingredients":["लो-फैट पनीर 70 g","शिमला मिर्च 120 g","तिल 5 g","दही 80 g","तेल 3 ml"]},
-  {"id":"D031","name":"लौकी-चना दाल हल्की सब्ज़ी और ज्वार रोटी","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 300 kcal, प्रोटीन 11 g, फाइबर 7 g; फोलेट, पोटैशियम, कैल्शियम.","instruction":"ज्वार की छोटी रोटी के साथ लौकी और बहुत कम चना दाल की हल्की सब्ज़ी लें; दही साथ रखें।","ingredients":["ज्वार आटा 50 g","लौकी 160 g","चना दाल 15 g","दही 80 g","तेल 4 ml"]},
-  {"id":"D032","name":"जौ-गाजर-अदरक सूप","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 210 kcal, प्रोटीन 8 g, फाइबर 6 g; बीटा-कैरोटीन, बीटा-ग्लूकैन, कैल्शियम.","instruction":"गाजर और जौ को नरम पकाकर सूप बनाएं; अदरक और काली मिर्च डालें।","ingredients":["जौ 30 g","गाजर 140 g","दही 70 g","तेल 3 ml","अदरक, जीरा"]},
-  {"id":"D033","name":"कुट्टू-मूंग चीला","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 245 kcal, प्रोटीन 11 g, फाइबर 5 g; मैग्नीशियम, फोलेट, कैल्शियम.","instruction":"कुट्टू और थोड़ी मूंग दाल का घोल बनाकर 2 छोटे चीले सेकें; दही के साथ लें।","ingredients":["कुट्टू 30 g","मूंग दाल 20 g","दही 90 g","तेल 4 ml","जीरा, अदरक"]},
-  {"id":"D034","name":"बाजरा-दही खिच","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 225 kcal, प्रोटीन 8 g, फाइबर 5 g; कैल्शियम, मैग्नीशियम, पोटैशियम.","instruction":"बाजरा और लौकी को नरम पकाकर अंत में दही मिलाएँ; हल्की खिच जैसी consistency रखें।","ingredients":["बाजरा 35 g","दही 180 g","लौकी 140 g","तेल 3 ml","जीरा, हींग"]},
-  {"id":"D035","name":"क्विनोआ-बथुआ बाउल","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 245 kcal, प्रोटीन 9 g, फाइबर 5 g; फोलेट, कैल्शियम, मैग्नीशियम.","instruction":"क्विनोआ और बथुआ को साथ पकाकर हल्का bowl बनाएं; दही की छोटी कटोरी साथ दें।","ingredients":["क्विनोआ 35 g","बथुआ 80 g","दही 80 g","तेल 3 ml","जीरा, अदरक"]},
-  {"id":"D036","name":"जौ-पनीर-धनिया सूप","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 250 kcal, प्रोटीन 15 g, फाइबर 4 g; कैल्शियम, B12, बीटा-ग्लूकैन.","instruction":"धनिया और जौ का हल्का सूप बनाकर अंत में लो-फैट पनीर मिलाएँ।","ingredients":["जौ 30 g","लो-फैट पनीर 60 g","धनिया पत्ता 15 g","दही 60 g","तेल 3 ml"]},
-  {"id":"D037","name":"मूंग-शिमला सूप","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 215 kcal, प्रोटीन 10 g, फाइबर 5 g; फोलेट, विटामिन C, कैल्शियम.","instruction":"शिमला मिर्च और थोड़ी मूंग दाल को साथ पकाकर पतला सूप बनाएं; काली मिर्च डालें।","ingredients":["मूंग दाल 20 g","शिमला मिर्च 120 g","दही 70 g","तेल 3 ml","जीरा, काली मिर्च"]},
-  {"id":"D038","name":"ज्वार-मेथी फुल्का और लौकी","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 285 kcal, प्रोटीन 10 g, फाइबर 6 g; फोलेट, पोटैशियम, कैल्शियम.","instruction":"ज्वार-मेथी फुल्का बनाकर लौकी की हल्की सब्ज़ी और दही के साथ लें।","ingredients":["ज्वार आटा 50 g","मेथी 30 g","लौकी 150 g","दही 80 g","तेल 4 ml"]},
-  {"id":"D039","name":"जौ-पालक-तिल बाउल","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 235 kcal, प्रोटीन 9 g, फाइबर 7 g; फोलेट, कैल्शियम, बीटा-ग्लूकैन.","instruction":"जौ और पालक को साथ पकाकर ऊपर तिल डालें; dinner में हल्का bowl रखें।","ingredients":["जौ 35 g","पालक 90 g","तिल 5 g","दही 80 g","तेल 3 ml"]},
-  {"id":"D040","name":"जौ-मिश्रित सब्ज़ी स्ट्यू","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 220 kcal, प्रोटीन 8 g, फाइबर 7 g; बीटा-ग्लूकैन, पोटैशियम, कैल्शियम.","instruction":"जौ और मिक्स सब्ज़ियों को बहुत नरम पकाकर stew बनाएं; नमक कम रखें।","ingredients":["जौ 30 g","मिक्स सब्ज़ी 180 g","दही 70 g","तेल 3 ml","जीरा, काली मिर्च"]},
-  {"id":"D041","name":"बाजरा-टमाटर-धनिया सूप","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 215 kcal, प्रोटीन 7 g, फाइबर 5 g; लाइकोपीन, मैग्नीशियम, कैल्शियम.","instruction":"टमाटर और गाजर के सूप में थोड़ा बाजरा मिलाकर हल्का thick soup बनाएं।","ingredients":["बाजरा 25 g","गाजर 120 g","टमाटर 100 g","दही 70 g","तेल 3 ml"]},
-  {"id":"D042","name":"ज्वार-पनीर रोल","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 295 kcal, प्रोटीन 16 g, फाइबर 5 g; कैल्शियम, B12, विटामिन C.","instruction":"ज्वार की पतली रोटी में शिमला मिर्च के साथ हल्का पका लो-फैट पनीर भरकर रोल बनाएँ; दही के साथ दें।","ingredients":["ज्वार आटा 50 g","लो-फैट पनीर 60 g","शिमला मिर्च 100 g","दही 70 g","तेल 4 ml"]},
-  {"id":"D043","name":"सामा-पालक बाउल","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","folate_rich"],"notes":"लगभग 235 kcal, प्रोटीन 8 g, फाइबर 6 g; फोलेट, आयरन, कैल्शियम.","instruction":"सामा और पालक को साथ पकाकर हल्का बाउल बनाएं; छोटी दही कटोरी के साथ लें।","ingredients":["सामा 35 g","पालक 90 g","दही 80 g","तेल 3 ml","जीरा, अदरक"]},
-  {"id":"D044","name":"जौ-तोरई छाछ करी","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 225 kcal, प्रोटीन 8 g, फाइबर 5 g; कैल्शियम, पोटैशियम, बीटा-ग्लूकैन.","instruction":"थोड़ा जौ और तोरई को पतली दही/छाछ करी में पकाएँ; बहुत हल्का dinner रखें।","ingredients":["जौ 25 g","तोरई 170 g","दही 180 g","तेल 3 ml","जीरा, हींग"]},
-  {"id":"D045","name":"कंगनी-पनीर सूप बाउल","tags":["dinner","low_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 250 kcal, प्रोटीन 14 g, फाइबर 4 g; कैल्शियम, B12, विटामिन A.","instruction":"गाजर के सूप में थोड़ा कंगनी और लो-फैट पनीर मिलाकर savory dinner bowl बनाएं।","ingredients":["कंगनी 25 g","लो-फैट पनीर 60 g","गाजर 120 g","दही 60 g","तेल 3 ml"]},
-  {"id":"D046","name":"लाल चावल-मूंग पेज","tags":["dinner","medium_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 240 kcal, प्रोटीन 8 g, फाइबर 4 g; मैंगनीज़, फोलेट, पोटैशियम.","instruction":"लाल चावल, थोड़ी मूंग दाल और लौकी को बहुत नरम पकाकर पतला पेज बनाएं; छोटा भाग ही लें।","ingredients":["लाल चावल 35 g","मूंग दाल 15 g","लौकी 150 g","तेल 3 ml","जीरा, अदरक"]},
-  {"id":"D047","name":"दलिया-लौकी खिचड़ी","tags":["dinner","medium_gi","diabetes_friendly","heart_friendly","no_onion_garlic","controlled_legume"],"notes":"लगभग 240 kcal, प्रोटीन 8 g, फाइबर 5 g; फाइबर, फोलेट, पोटैशियम.","instruction":"गेहूँ दलिया, लौकी और थोड़ी मूंग दाल को बहुत नरम dinner khichdi जैसा पकाएँ।","ingredients":["गेहूँ दलिया 35 g","लौकी 160 g","मूंग दाल 15 g","तेल 3 ml","जीरा, अदरक"]},
-  {"id":"D048","name":"रागी-वेज उत्तपम","tags":["dinner","medium_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 245 kcal, प्रोटीन 8 g, फाइबर 4 g; कैल्शियम, विटामिन C, मैग्नीशियम.","instruction":"रागी बैटर का छोटा उत्तपम बनाएँ; ऊपर शिमला मिर्च और पालक डालकर कम तेल में पकाएँ।","ingredients":["रागी 35 g","दही 90 g","शिमला मिर्च 80 g","तेल 4 ml","जीरा, अदरक"]},
-  {"id":"D049","name":"वेज पोहा-दही हल्का बाउल","tags":["dinner","medium_gi","diabetes_friendly","heart_friendly","no_onion_garlic","calcium_rich"],"notes":"लगभग 235 kcal, प्रोटीन 7 g, फाइबर 4 g; कैल्शियम, विटामिन C, पोटैशियम.","instruction":"बहुत छोटा पोहा भाग रखें; मिक्स सब्ज़ी के साथ पकाकर दही के साथ लें।","ingredients":["मोटा पोहा 35 g","मिक्स सब्ज़ी 120 g","दही 100 g","तेल 3 ml","राई, अदरक, हल्दी"]},
-  {"id":"D050","name":"ब्राउन राइस-मिक्स वेज सूप बाउल","tags":["dinner","medium_gi","diabetes_friendly","heart_friendly","no_onion_garlic","low_purine"],"notes":"लगभग 245 kcal, प्रोटीन 7 g, फाइबर 4 g; मैंगनीज़, पोटैशियम, कैल्शियम.","instruction":"ब्राउन राइस का छोटा भाग उबली सब्ज़ियों के clear soup में मिलाकर light dinner bowl बनाएं।","ingredients":["ब्राउन राइस 35 g","मिक्स सब्ज़ी 170 g","दही 70 g","तेल 3 ml","जीरा, काली मिर्च"]}
+  {
+    "id": "B001",
+    "name": "ज्वार-मेथी चीला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "omega3_support"
+    ],
+    "notes": "लगभग 285 kcal, प्रोटीन 11 g, फाइबर 8 g; मैग्नीशियम, फोलेट, कैल्शियम.",
+    "instruction": [
+      "ज्वार आटा, मेथी और दही/पानी से घोल बनाकर 2 छोटे चीले कम तेल में सेकें; ऊपर अलसी डालें और हरी चटनी के साथ दें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 40 g",
+      "मेथी 40 g",
+      "दही 80 g",
+      "अलसी 5 g",
+      "तेल 5 ml",
+      "हल्दी, जीरा, हींग, अदरक"
+    ]
+  },
+  {
+    "id": "B002",
+    "name": "मूंग-लौकी चीला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 260 kcal, प्रोटीन 13 g, फाइबर 7 g; फोलेट, पोटैशियम, कैल्शियम.",
+    "instruction": [
+      "भीगी मूंग दाल, लौकी और मसालों का घोल बनाकर 2 छोटे चीले सेकें; दही के साथ दें।"
+    ],
+    "ingredients": [
+      "मूंग दाल 35 g",
+      "लौकी 100 g",
+      "दही 80 g",
+      "तेल 5 ml",
+      "अजवाइन, हल्दी, अदरक"
+    ]
+  },
+  {
+    "id": "B003",
+    "name": "बेसन-पालक चीला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 275 kcal, प्रोटीन 13 g, फाइबर 8 g; फोलेट, आयरन, कैल्शियम.",
+    "instruction": [
+      "बेसन, पालक और दही/पानी से घोल बनाकर 2 छोटे चीले कम तेल में पकाएँ; दही/हरी चटनी के साथ दें।"
+    ],
+    "ingredients": [
+      "बेसन 40 g",
+      "पालक 60 g",
+      "दही 80 g",
+      "तेल 5 ml",
+      "हींग, जीरा, काली मिर्च"
+    ]
+  },
+  {
+    "id": "B004",
+    "name": "जौ-अजवाइन सब्ज़ी चीला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 270 kcal, प्रोटीन 10 g, फाइबर 9 g; बीटा-ग्लूकैन, मैग्नीशियम, कैल्शियम.",
+    "instruction": [
+      "जौ आटा, बारीक मिक्स सब्ज़ी और अजवाइन से घोल बनाकर 2 छोटे चीले सेकें; दही के साथ लें।"
+    ],
+    "ingredients": [
+      "जौ आटा 40 g",
+      "मिक्स सब्ज़ी 100 g",
+      "दही 80 g",
+      "तेल 5 ml",
+      "अजवाइन, जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "B005",
+    "name": "बाजरा-दही चीला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 280 kcal, प्रोटीन 10 g, फाइबर 7 g; मैग्नीशियम, आयरन, कैल्शियम.",
+    "instruction": [
+      "बाजरा आटा और दही से घोल बनाकर शिमला मिर्च मिलाएँ; 2 छोटे चीले कम तेल में पकाएँ।"
+    ],
+    "ingredients": [
+      "बाजरा आटा 40 g",
+      "शिमला मिर्च 70 g",
+      "दही 100 g",
+      "तेल 5 ml",
+      "जीरा, हरी धनिया, अदरक"
+    ]
+  },
+  {
+    "id": "B006",
+    "name": "क्विनोआ-बेसन चीला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 295 kcal, प्रोटीन 12 g, फाइबर 7 g; मैग्नीशियम, फोलेट, कैल्शियम.",
+    "instruction": [
+      "क्विनोआ पाउडर और बेसन का घोल बनाकर कद्दूकस ककड़ी मिलाएँ; 2 छोटे चीले सेकें।"
+    ],
+    "ingredients": [
+      "क्विनोआ 30 g",
+      "बेसन 20 g",
+      "ककड़ी 60 g",
+      "दही 70 g",
+      "तेल 5 ml",
+      "जीरा, काली मिर्च"
+    ]
+  },
+  {
+    "id": "B007",
+    "name": "राजगीरा-पालक पुदला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 285 kcal, प्रोटीन 11 g, फाइबर 7 g; कैल्शियम, मैग्नीशियम, फोलेट.",
+    "instruction": [
+      "राजगीरा आटा, पालक और दही से घोल बनाकर 2 छोटे पुदले पकाएँ; ऊपर तिल डालें।"
+    ],
+    "ingredients": [
+      "राजगीरा आटा 40 g",
+      "पालक 60 g",
+      "दही 80 g",
+      "तिल 5 g",
+      "तेल 5 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "B008",
+    "name": "सत्तू-शिमला मिर्च चीला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 255 kcal, प्रोटीन 10 g, फाइबर 7 g; फोलेट, आयरन, विटामिन C.",
+    "instruction": [
+      "सत्तू, दही और पानी से घोल बनाकर शिमला मिर्च मिलाएँ; 2 छोटे चीले पकाएँ।"
+    ],
+    "ingredients": [
+      "सत्तू 30 g",
+      "शिमला मिर्च 70 g",
+      "दही 90 g",
+      "तेल 5 ml",
+      "अजवाइन, काली मिर्च"
+    ]
+  },
+  {
+    "id": "B009",
+    "name": "मूंग-मूली पत्ता चीला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 255 kcal, प्रोटीन 13 g, फाइबर 7 g; फोलेट, विटामिन C, कैल्शियम.",
+    "instruction": [
+      "मूंग दाल का घोल बनाकर मूली के पत्ते मिलाएँ; 2 छोटे चीले कम तेल में पकाएँ।"
+    ],
+    "ingredients": [
+      "मूंग दाल 35 g",
+      "मूली पत्ता 50 g",
+      "दही 80 g",
+      "तेल 5 ml",
+      "जीरा, हल्दी, अदरक"
+    ]
+  },
+  {
+    "id": "B010",
+    "name": "चना दाल-मेथी पैनकेक",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 250 kcal, प्रोटीन 11 g, फाइबर 7 g; फोलेट, मैंगनीज़, कैल्शियम.",
+    "instruction": [
+      "भीगी चना दाल पीसकर मेथी मिलाएँ; 2 छोटे पैनकेक कम तेल में पकाएँ और दही के साथ दें।"
+    ],
+    "ingredients": [
+      "चना दाल 30 g",
+      "मेथी 40 g",
+      "दही 80 g",
+      "तेल 5 ml",
+      "अजवाइन, हींग, अदरक"
+    ]
+  },
+  {
+    "id": "B011",
+    "name": "ज्वार-पनीर भरा चीला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 325 kcal, प्रोटीन 16 g, फाइबर 5 g; कैल्शियम, B12, मैग्नीशियम.",
+    "instruction": [
+      "ज्वार घोल से 2 पतले चीले बनाकर लो-फैट पनीर और शिमला मिर्च का भरावन भरें; फोल्ड करके हल्का सेकें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 40 g",
+      "लो-फैट पनीर 60 g",
+      "शिमला मिर्च 50 g",
+      "तेल 5 ml",
+      "जीरा, अदरक, काली मिर्च"
+    ]
+  },
+  {
+    "id": "B012",
+    "name": "जौ-तिल चीला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 275 kcal, प्रोटीन 10 g, फाइबर 8 g; बीटा-ग्लूकैन, कैल्शियम, मैग्नीशियम.",
+    "instruction": [
+      "जौ का घोल बनाकर ककड़ी और तिल मिलाएँ; 2 छोटे चीले कम तेल में पकाएँ।"
+    ],
+    "ingredients": [
+      "जौ आटा 40 g",
+      "ककड़ी 80 g",
+      "तिल 5 g",
+      "दही 80 g",
+      "तेल 5 ml",
+      "जीरा, सौंफ"
+    ]
+  },
+  {
+    "id": "B013",
+    "name": "कुट्टू-धनिया पुदला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 270 kcal, प्रोटीन 10 g, फाइबर 6 g; मैग्नीशियम, रुटिन, कैल्शियम.",
+    "instruction": [
+      "कुट्टू आटा और बारीक सब्ज़ी का घोल बनाकर 2 छोटे पुदले कम तेल में पकाएँ।"
+    ],
+    "ingredients": [
+      "कुट्टू आटा 40 g",
+      "मिक्स सब्ज़ी 90 g",
+      "दही 80 g",
+      "तेल 5 ml",
+      "जीरा, काली मिर्च"
+    ]
+  },
+  {
+    "id": "B014",
+    "name": "बाजरा-लौकी चीला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 265 kcal, प्रोटीन 10 g, फाइबर 7 g; मैग्नीशियम, आयरन, पोटैशियम.",
+    "instruction": [
+      "बाजरा आटा, लौकी और मसालों का घोल बनाकर 2 छोटे चीले सेकें; दही के साथ लें।"
+    ],
+    "ingredients": [
+      "बाजरा आटा 40 g",
+      "लौकी 100 g",
+      "दही 80 g",
+      "तेल 5 ml",
+      "अदरक, अजवाइन"
+    ]
+  },
+  {
+    "id": "B015",
+    "name": "क्विनोआ-मेथी पुदला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "omega3_support"
+    ],
+    "notes": "लगभग 295 kcal, प्रोटीन 11 g, फाइबर 8 g; मैग्नीशियम, फोलेट, ALA ओमेगा-3.",
+    "instruction": [
+      "क्विनोआ घोल में मेथी और अलसी मिलाकर 2 पुदले कम तेल में पकाएँ।"
+    ],
+    "ingredients": [
+      "क्विनोआ 35 g",
+      "मेथी 40 g",
+      "दही 80 g",
+      "अलसी 5 g",
+      "तेल 5 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "B016",
+    "name": "बेसन-चौलाई चीला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 275 kcal, प्रोटीन 13 g, फाइबर 8 g; फोलेट, आयरन, कैल्शियम.",
+    "instruction": [
+      "बेसन और चौलाई का घोल बनाकर 2 छोटे चीले कम तेल में पकाएँ।"
+    ],
+    "ingredients": [
+      "बेसन 40 g",
+      "चौलाई 50 g",
+      "दही 80 g",
+      "तेल 5 ml",
+      "हींग, जीरा"
+    ]
+  },
+  {
+    "id": "B017",
+    "name": "मूंग-करेला चीला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 250 kcal, प्रोटीन 13 g, फाइबर 7 g; फोलेट, विटामिन C, पोटैशियम.",
+    "instruction": [
+      "मूंग दाल और बारीक करेला मिलाकर 2 छोटे चीले पकाएँ; दही की छोटी कटोरी के साथ दें।"
+    ],
+    "ingredients": [
+      "मूंग दाल 35 g",
+      "करेला 70 g",
+      "दही 80 g",
+      "तेल 5 ml",
+      "हल्दी, अजवाइन, अदरक"
+    ]
+  },
+  {
+    "id": "B018",
+    "name": "ज्वार-कद्दू चीला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 275 kcal, प्रोटीन 10 g, फाइबर 6 g; मैग्नीशियम, बीटा-कैरोटीन, कैल्शियम.",
+    "instruction": [
+      "ज्वार घोल में कद्दूकस कद्दू मिलाकर 2 छोटे चीले पकाएँ; ऊपर तिल डालें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 40 g",
+      "कद्दू 90 g",
+      "दही 80 g",
+      "तिल 5 g",
+      "तेल 5 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "B019",
+    "name": "सामा-मिलेट वेज उपमा",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "omega3_support"
+    ],
+    "notes": "लगभग 255 kcal, प्रोटीन 8 g, फाइबर 7 g; आयरन, मैग्नीशियम, ALA ओमेगा-3.",
+    "instruction": [
+      "सामा मिलेट को हल्का भूनें; जीरा, अदरक और सब्ज़ी के साथ कम तेल में पकाकर अंत में अलसी डालें।"
+    ],
+    "ingredients": [
+      "सामा मिलेट 40 g",
+      "मिक्स सब्ज़ी 120 g",
+      "अलसी 5 g",
+      "तेल 5 ml",
+      "जीरा, अदरक, करी पत्ता"
+    ]
+  },
+  {
+    "id": "B020",
+    "name": "क्विनोआ सब्ज़ी उपमा",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 275 kcal, प्रोटीन 8 g, फाइबर 6 g; मैग्नीशियम, मैंगनीज़, एंटीऑक्सिडेंट.",
+    "instruction": [
+      "क्विनोआ को जीरा, अदरक और सब्ज़ी के साथ कम तेल में पकाएँ; ऊपर तिल डालें।"
+    ],
+    "ingredients": [
+      "क्विनोआ 45 g",
+      "मिक्स सब्ज़ी 120 g",
+      "तिल 5 g",
+      "तेल 5 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "B021",
+    "name": "जौ सब्ज़ी दलिया",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "omega3_support"
+    ],
+    "notes": "लगभग 265 kcal, प्रोटीन 9 g, फाइबर 9 g; बीटा-ग्लूकैन, मैग्नीशियम, ALA ओमेगा-3.",
+    "instruction": [
+      "जौ दलिया और सब्ज़ियाँ धीमी आँच पर पकाएँ; अंत में भुनी अलसी डालें।"
+    ],
+    "ingredients": [
+      "जौ दलिया 40 g",
+      "मिक्स सब्ज़ी 120 g",
+      "अलसी 5 g",
+      "तेल 5 ml",
+      "जीरा, अदरक, काली मिर्च"
+    ]
+  },
+  {
+    "id": "B022",
+    "name": "जौ-लौकी नमकीन पोरिज",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 250 kcal, प्रोटीन 9 g, फाइबर 8 g; बीटा-ग्लूकैन, पोटैशियम, कैल्शियम.",
+    "instruction": [
+      "जौ और लौकी को गाढ़ा नमकीन पोरिज जैसा पकाएँ; ऊपर तिल डालें और दही के साथ लें।"
+    ],
+    "ingredients": [
+      "जौ 40 g",
+      "लौकी 100 g",
+      "तिल 5 g",
+      "दही 70 g",
+      "तेल 3 ml",
+      "जीरा, काली मिर्च"
+    ]
+  },
+  {
+    "id": "B023",
+    "name": "कंगनी वेज पोंगल",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 265 kcal, प्रोटीन 10 g, फाइबर 6 g; आयरन, फोलेट, मैग्नीशियम.",
+    "instruction": [
+      "कंगनी और थोड़ी मूंग दाल को गाजर के साथ नरम पकाएँ; जीरा, काली मिर्च और अदरक का हल्का तड़का दें।"
+    ],
+    "ingredients": [
+      "कंगनी मिलेट 40 g",
+      "मूंग दाल 20 g",
+      "गाजर 80 g",
+      "तेल 4 ml",
+      "जीरा, काली मिर्च, अदरक"
+    ]
+  },
+  {
+    "id": "B024",
+    "name": "बाजरा-छाछ खीच",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 260 kcal, प्रोटीन 9 g, फाइबर 6 g; मैग्नीशियम, पोटैशियम, कैल्शियम.",
+    "instruction": [
+      "बाजरा और लौकी को नरम पकाकर अंत में फेंटी हुई दही/छाछ मिलाएँ; उबाल न चढ़ाएँ।"
+    ],
+    "ingredients": [
+      "बाजरा 40 g",
+      "लौकी 100 g",
+      "दही 100 g",
+      "तेल 3 ml",
+      "जीरा, मेथी दाना, अदरक"
+    ]
+  },
+  {
+    "id": "B025",
+    "name": "जौ-तिल खिचू",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 245 kcal, प्रोटीन 8 g, फाइबर 8 g; बीटा-ग्लूकैन, कैल्शियम, मैग्नीशियम.",
+    "instruction": [
+      "जौ आटा और सब्ज़ियों को पानी में गाढ़ा पकाकर खिचू जैसा बनाएं; ऊपर तिल डालें।"
+    ],
+    "ingredients": [
+      "जौ 40 g",
+      "मिक्स सब्ज़ी 90 g",
+      "तिल 5 g",
+      "तेल 3 ml",
+      "हींग, जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "B026",
+    "name": "दही-चिया-अमरूद बाउल",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "omega3_support"
+    ],
+    "notes": "लगभग 240 kcal, प्रोटीन 9 g, फाइबर 9 g; कैल्शियम, ALA ओमेगा-3, विटामिन C.",
+    "instruction": [
+      "दही में चिया 10 मिनट भिगोएँ; कटे अमरूद और दालचीनी मिलाकर बिना चीनी के परोसें।"
+    ],
+    "ingredients": [
+      "दही 180 g",
+      "चिया 8 g",
+      "अमरूद 100 g",
+      "दालचीनी 1 g"
+    ]
+  },
+  {
+    "id": "B027",
+    "name": "दही-अलसी-अनार बाउल",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "omega3_support"
+    ],
+    "notes": "लगभग 230 kcal, प्रोटीन 9 g, फाइबर 6 g; कैल्शियम, ALA ओमेगा-3, एंटीऑक्सिडेंट.",
+    "instruction": [
+      "दही को फेंटें; उसमें भुनी पिसी अलसी और अनार डालें; चीनी न डालें।"
+    ],
+    "ingredients": [
+      "दही 180 g",
+      "अलसी 7 g",
+      "अनार 60 g",
+      "दालचीनी 1 g"
+    ]
+  },
+  {
+    "id": "B028",
+    "name": "सत्तू-दही-ककड़ी बाउल",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 240 kcal, प्रोटीन 11 g, फाइबर 6 g; कैल्शियम, फोलेट, पोटैशियम.",
+    "instruction": [
+      "दही में सत्तू घोलें; ककड़ी, भुना जीरा और बहुत कम काला नमक मिलाकर 5 मिनट रखकर खाएँ।"
+    ],
+    "ingredients": [
+      "सत्तू 30 g",
+      "दही 150 g",
+      "ककड़ी 80 g",
+      "भुना जीरा 1 g",
+      "काला नमक 1 g"
+    ]
+  },
+  {
+    "id": "B029",
+    "name": "मूंग स्प्राउट-दही चाट",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 220 kcal, प्रोटीन 11 g, फाइबर 5 g; कैल्शियम, फोलेट, विटामिन C.",
+    "instruction": [
+      "अंकुरित मूंग को 2–3 मिनट स्टीम करें; दही, शिमला मिर्च, धनिया और नींबू मिलाकर हल्की चाट बनाएं।"
+    ],
+    "ingredients": [
+      "अंकुरित हरा मूंग 70 g",
+      "दही 120 g",
+      "शिमला मिर्च 40 g",
+      "धनिया 10 g",
+      "नींबू 10 g"
+    ]
+  },
+  {
+    "id": "B030",
+    "name": "लो-फैट दही के साथ ज्वार ढोकला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 250 kcal, प्रोटीन 9 g, फाइबर 5 g; कैल्शियम, मैग्नीशियम, विटामिन C.",
+    "instruction": [
+      "ज्वार-दही बैटर में शिमला मिर्च मिलाकर भाप में पकाएँ; ऊपर जीरा-हींग का हल्का तड़का दें।"
+    ],
+    "ingredients": [
+      "ज्वार 35 g",
+      "दही 120 g",
+      "शिमला मिर्च 40 g",
+      "तेल 3 ml",
+      "ईनो/फ्रूट साल्ट 1 g"
+    ]
+  },
+  {
+    "id": "B031",
+    "name": "मूंग दाल ढोकला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 235 kcal, प्रोटीन 11 g, फाइबर 5 g; फोलेट, पोटैशियम, कैल्शियम.",
+    "instruction": [
+      "भीगी मूंग दाल का घोल बनाकर पालक मिलाएँ; भाप में पकाकर दही के साथ दें।"
+    ],
+    "ingredients": [
+      "मूंग दाल 35 g",
+      "पालक 40 g",
+      "दही 80 g",
+      "तेल 3 ml",
+      "अदरक, जीरा"
+    ]
+  },
+  {
+    "id": "B032",
+    "name": "बाजरा-मेथी ढोकला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 245 kcal, प्रोटीन 9 g, फाइबर 6 g; मैग्नीशियम, आयरन, फोलेट.",
+    "instruction": [
+      "बाजरा-दही घोल में मेथी मिलाकर भाप में पकाएँ; ऊपर बहुत हल्का जीरा तड़का दें।"
+    ],
+    "ingredients": [
+      "बाजरा 35 g",
+      "मेथी 40 g",
+      "दही 100 g",
+      "तेल 3 ml",
+      "अदरक, जीरा"
+    ]
+  },
+  {
+    "id": "B033",
+    "name": "जौ इडली",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 230 kcal, प्रोटीन 9 g, फाइबर 5 g; बीटा-ग्लूकैन, फोलेट, कैल्शियम.",
+    "instruction": [
+      "जौ और थोड़ी उड़द का फर्मेंटेड बैटर बनाकर 3 छोटी इडली भाप में पकाएँ; दही/हरी चटनी के साथ लें।"
+    ],
+    "ingredients": [
+      "जौ 30 g",
+      "उड़द मिश्रण 15 g",
+      "दही 80 g",
+      "तेल 2 ml",
+      "मेथी दाना 1 g"
+    ]
+  },
+  {
+    "id": "B034",
+    "name": "कोदो मिलेट इडली",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 230 kcal, प्रोटीन 8 g, फाइबर 5 g; फाइबर, पॉलीफेनॉल, कैल्शियम.",
+    "instruction": [
+      "कोदो और थोड़ी उड़द का बैटर बनाकर 3 छोटी इडली भाप में पकाएँ।"
+    ],
+    "ingredients": [
+      "कोदो मिलेट 30 g",
+      "उड़द मिश्रण 15 g",
+      "दही 80 g",
+      "तेल 2 ml",
+      "मेथी दाना 1 g"
+    ]
+  },
+  {
+    "id": "B035",
+    "name": "सामा-पालक इडली",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 230 kcal, प्रोटीन 8 g, फाइबर 5 g; फोलेट, आयरन, कैल्शियम.",
+    "instruction": [
+      "सामा-उड़द बैटर में पालक मिलाकर 3 छोटी इडली भाप में पकाएँ।"
+    ],
+    "ingredients": [
+      "सामा मिलेट 30 g",
+      "उड़द मिश्रण 15 g",
+      "पालक 30 g",
+      "दही 80 g",
+      "तेल 2 ml"
+    ]
+  },
+  {
+    "id": "B036",
+    "name": "हरा मूंग अडई",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 260 kcal, प्रोटीन 12 g, फाइबर 6 g; फोलेट, पोटैशियम, कैल्शियम.",
+    "instruction": [
+      "हरा मूंग घोल में पालक और तिल मिलाकर 2 छोटे अडई कम तेल में पकाएँ।"
+    ],
+    "ingredients": [
+      "मूंग दाल 35 g",
+      "पालक 40 g",
+      "तिल 5 g",
+      "दही 70 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "B037",
+    "name": "पालक-बेसन हांडवो",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 265 kcal, प्रोटीन 12 g, फाइबर 6 g; फोलेट, आयरन, कैल्शियम.",
+    "instruction": [
+      "बेसन-दही घोल में पालक मिलाकर हांडवो जैसा bake/steam करें; ऊपर तिल डालें।"
+    ],
+    "ingredients": [
+      "बेसन 35 g",
+      "पालक 50 g",
+      "दही 90 g",
+      "तिल 5 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "B038",
+    "name": "जौ-पालक हांडवो",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 255 kcal, प्रोटीन 10 g, फाइबर 7 g; बीटा-ग्लूकैन, फोलेट, कैल्शियम.",
+    "instruction": [
+      "जौ-दही घोल में पालक मिलाकर हांडवो जैसा steam/bake करें; बहुत हल्का तड़का दें।"
+    ],
+    "ingredients": [
+      "जौ 35 g",
+      "पालक 50 g",
+      "दही 90 g",
+      "तिल 5 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "B039",
+    "name": "क्विनोआ-पनीर उपमा",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 325 kcal, प्रोटीन 17 g, फाइबर 5 g; कैल्शियम, B12, मैग्नीशियम.",
+    "instruction": [
+      "क्विनोआ और सब्ज़ी को कम तेल में पकाएँ; अंत में लो-फैट पनीर मिलाएँ।"
+    ],
+    "ingredients": [
+      "क्विनोआ 45 g",
+      "लो-फैट पनीर 60 g",
+      "मिक्स सब्ज़ी 100 g",
+      "तेल 4 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "B040",
+    "name": "जौ-पुदीना टिक्की",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 250 kcal, प्रोटीन 9 g, फाइबर 7 g; बीटा-ग्लूकैन, कैल्शियम, पोटैशियम.",
+    "instruction": [
+      "जौ को गाढ़ा पकाकर ककड़ी, पुदीना और तिल मिलाएँ; 4 छोटी टिक्की बनाकर तवे पर सेकें और दही के साथ दें।"
+    ],
+    "ingredients": [
+      "जौ 40 g",
+      "ककड़ी 50 g",
+      "तिल 5 g",
+      "दही 80 g",
+      "तेल 4 ml",
+      "पुदीना, जीरा"
+    ]
+  },
+  {
+    "id": "B041",
+    "name": "बाजरा-तिल थेपला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 285 kcal, प्रोटीन 10 g, फाइबर 7 g; मैग्नीशियम, फोलेट, कैल्शियम.",
+    "instruction": [
+      "बाजरा आटा, मेथी और तिल से 2 छोटे थेपले बनाकर कम तेल में सेकें; दही के साथ लें।"
+    ],
+    "ingredients": [
+      "बाजरा आटा 45 g",
+      "मेथी 35 g",
+      "तिल 5 g",
+      "दही 80 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "B042",
+    "name": "ज्वार-पालक थेपला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 280 kcal, प्रोटीन 10 g, फाइबर 6 g; मैग्नीशियम, फोलेट, कैल्शियम.",
+    "instruction": [
+      "ज्वार और पालक से 2 छोटे थेपले बनाकर कम तेल में सेकें; साथ में दही रखें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 45 g",
+      "पालक 45 g",
+      "दही 90 g",
+      "तेल 4 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "B043",
+    "name": "चना सत्तू-मेथी पराठा",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 300 kcal, प्रोटीन 12 g, फाइबर 8 g; फोलेट, आयरन, कैल्शियम.",
+    "instruction": [
+      "ज्वार की लोई में सत्तू-मेथी भरकर सूखा पराठा जैसा तवे पर सेकें; दही के साथ दें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 30 g",
+      "सत्तू 30 g",
+      "मेथी 35 g",
+      "दही 90 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "B044",
+    "name": "जौ-उत्तपम",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 255 kcal, प्रोटीन 9 g, फाइबर 6 g; बीटा-ग्लूकैन, विटामिन C, फोलेट.",
+    "instruction": [
+      "जौ-दही का गाढ़ा बैटर बनाकर ऊपर शिमला मिर्च और पालक डालें; छोटा उत्तपम कम तेल में पकाएँ।"
+    ],
+    "ingredients": [
+      "जौ 35 g",
+      "दही 90 g",
+      "शिमला मिर्च 40 g",
+      "पालक 20 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "B045",
+    "name": "कुट्टू-पनीर ढोकला",
+    "tags": [
+      "breakfast",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 300 kcal, प्रोटीन 14 g, फाइबर 5 g; कैल्शियम, B12, मैग्नीशियम.",
+    "instruction": [
+      "कुट्टू-दही बैटर में कद्दूकस लो-फैट पनीर मिलाकर भाप में पकाएँ।"
+    ],
+    "ingredients": [
+      "कुट्टू 35 g",
+      "लो-फैट पनीर 50 g",
+      "दही 90 g",
+      "तेल 3 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "B046",
+    "name": "वेजिटेबल पोहा",
+    "tags": [
+      "breakfast",
+      "medium_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 235 kcal, प्रोटीन 5 g, फाइबर 4 g; विटामिन C, पोटैशियम, एंटीऑक्सिडेंट.",
+    "instruction": [
+      "मोटा पोहा धोकर रखें; राई, अदरक और सब्ज़ी के साथ कम तेल में पकाएँ; नींबू डालें।"
+    ],
+    "ingredients": [
+      "मोटा पोहा 40 g",
+      "मिक्स सब्ज़ी 100 g",
+      "तेल 4 ml",
+      "हल्दी, अदरक, राई",
+      "नींबू 10 g"
+    ]
+  },
+  {
+    "id": "B047",
+    "name": "दलिया-मेथी उपमा",
+    "tags": [
+      "breakfast",
+      "medium_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 245 kcal, प्रोटीन 8 g, फाइबर 5 g; फोलेट, फाइबर, कैल्शियम.",
+    "instruction": [
+      "गेहूँ दलिया को मेथी और मसालों के साथ कम तेल में पकाएँ; छोटी कटोरी दही के साथ दें।"
+    ],
+    "ingredients": [
+      "गेहूं दलिया 40 g",
+      "मेथी 40 g",
+      "दही 80 g",
+      "तेल 4 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "B048",
+    "name": "लाल चावल इडली",
+    "tags": [
+      "breakfast",
+      "medium_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 235 kcal, प्रोटीन 8 g, फाइबर 4 g; मैंगनीज़, फोलेट, कैल्शियम.",
+    "instruction": [
+      "लाल चावल और थोड़ी उड़द का फर्मेंटेड बैटर बनाकर 3 छोटी इडली भाप में पकाएँ।"
+    ],
+    "ingredients": [
+      "लाल चावल 30 g",
+      "उड़द मिश्रण 15 g",
+      "दही 80 g",
+      "तेल 2 ml",
+      "मेथी दाना 1 g"
+    ]
+  },
+  {
+    "id": "B049",
+    "name": "ओट्स-मिलेट इडली",
+    "tags": [
+      "breakfast",
+      "medium_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 235 kcal, प्रोटीन 8 g, फाइबर 5 g; बीटा-ग्लूकैन, आयरन, कैल्शियम.",
+    "instruction": [
+      "ओट्स और सामा का बैटर बनाकर गाजर के साथ 3 छोटी इडली भाप में पकाएँ।"
+    ],
+    "ingredients": [
+      "ओट्स 35 g",
+      "सामा मिलेट 20 g",
+      "दही 100 g",
+      "गाजर 30 g",
+      "तेल 2 ml"
+    ]
+  },
+  {
+    "id": "B050",
+    "name": "रागी-मूंग उत्तपम",
+    "tags": [
+      "breakfast",
+      "medium_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 255 kcal, प्रोटीन 10 g, फाइबर 5 g; कैल्शियम, फोलेट, विटामिन C.",
+    "instruction": [
+      "रागी और थोड़ी मूंग दाल का घोल बनाकर ऊपर शिमला मिर्च डालें; छोटा उत्तपम कम तेल में पकाएँ।"
+    ],
+    "ingredients": [
+      "रागी 40 g",
+      "मूंग दाल 20 g",
+      "शिमला मिर्च 40 g",
+      "दही 70 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L001",
+    "name": "जौ रोटी-लौकी चना दाल थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 355 kcal, प्रोटीन 14 g, फाइबर 10 g; बीटा-ग्लूकैन, फोलेट, कैल्शियम.",
+    "instruction": [
+      "जौ के आटे की 2 छोटी रोटियाँ बनाएँ; लौकी हल्के मसाले में पकाएँ; साथ में पतली चना दाल और दही दें।"
+    ],
+    "ingredients": [
+      "जौ आटा 60 g",
+      "लौकी 150 g",
+      "चना दाल 25 g",
+      "दही 100 g",
+      "तेल 5 ml",
+      "हल्दी, जीरा, हींग"
+    ]
+  },
+  {
+    "id": "L002",
+    "name": "ज्वार रोटी-भिंडी दही थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "omega3_support"
+    ],
+    "notes": "लगभग 350 kcal, प्रोटीन 12 g, फाइबर 9 g; फोलेट, कैल्शियम, ALA ओमेगा-3.",
+    "instruction": [
+      "ज्वार की 2 छोटी रोटियाँ बनाएँ; भिंडी सूखी सब्ज़ी कम तेल में पकाएँ; सादा दही और अलसी के साथ परोसें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 60 g",
+      "भिंडी 120 g",
+      "दही 120 g",
+      "अलसी 5 g",
+      "तेल 5 ml"
+    ]
+  },
+  {
+    "id": "L003",
+    "name": "बाजरा रोटी-टिंडा मूंग थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 355 kcal, प्रोटीन 14 g, फाइबर 9 g; मैग्नीशियम, फोलेट, कैल्शियम.",
+    "instruction": [
+      "बाजरे की 2 छोटी रोटियाँ बनाकर टिंडा हल्के मसाले में पकाएँ; साथ में पतली मूंग दाल और दही दें।"
+    ],
+    "ingredients": [
+      "बाजरा आटा 60 g",
+      "टिंडा 150 g",
+      "मूंग दाल 20 g",
+      "दही 100 g",
+      "तेल 5 ml"
+    ]
+  },
+  {
+    "id": "L004",
+    "name": "जौ रोटी-परवल तिल सब्ज़ी थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 345 kcal, प्रोटीन 12 g, फाइबर 9 g; बीटा-ग्लूकैन, कैल्शियम, विटामिन C.",
+    "instruction": [
+      "जौ की 2 छोटी रोटियाँ बनाकर परवल कम तेल में पकाएँ; ऊपर तिल डालें और दही के साथ परोसें।"
+    ],
+    "ingredients": [
+      "जौ आटा 60 g",
+      "परवल 130 g",
+      "तिल 5 g",
+      "दही 100 g",
+      "तेल 5 ml"
+    ]
+  },
+  {
+    "id": "L005",
+    "name": "ज्वार रोटी-तोरई-पनीर थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 395 kcal, प्रोटीन 18 g, फाइबर 7 g; कैल्शियम, B12, पोटैशियम.",
+    "instruction": [
+      "ज्वार की रोटियाँ बनाएँ; तोरई हल्के मसाले में पकाएँ; साथ में लो-फैट पनीर का छोटा भाग रखें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 60 g",
+      "तोरई 150 g",
+      "लो-फैट पनीर 60 g",
+      "दही 80 g",
+      "तेल 5 ml"
+    ]
+  },
+  {
+    "id": "L006",
+    "name": "बाजरा रोटी-मेथी दही कढ़ी थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "omega3_support"
+    ],
+    "notes": "लगभग 360 kcal, प्रोटीन 13 g, फाइबर 8 g; फोलेट, कैल्शियम, ALA ओमेगा-3.",
+    "instruction": [
+      "बाजरे की 2 छोटी रोटियाँ बनाएँ; मेथी के साथ पकौड़ी-रहित दही कढ़ी बनाकर साथ दें; ऊपर अलसी डालें।"
+    ],
+    "ingredients": [
+      "बाजरा आटा 60 g",
+      "मेथी 40 g",
+      "दही 180 g",
+      "अलसी 5 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L007",
+    "name": "जौ रोटी-ग्वार फली थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 340 kcal, प्रोटीन 12 g, फाइबर 11 g; फोलेट, कैल्शियम, बीटा-ग्लूकैन.",
+    "instruction": [
+      "जौ की 2 छोटी रोटियाँ बनाएँ; ग्वार फली को जीरा-हींग के साथ पकाएँ; साथ में दही रखें।"
+    ],
+    "ingredients": [
+      "जौ आटा 60 g",
+      "ग्वार फली 130 g",
+      "दही 120 g",
+      "तेल 5 ml",
+      "जीरा, हींग, अदरक"
+    ]
+  },
+  {
+    "id": "L008",
+    "name": "ज्वार रोटी-कद्दू-अलसी थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "omega3_support"
+    ],
+    "notes": "लगभग 350 kcal, प्रोटीन 12 g, फाइबर 8 g; बीटा-कैरोटीन, कैल्शियम, ALA ओमेगा-3.",
+    "instruction": [
+      "ज्वार की रोटियाँ बनाएँ; कद्दू को कम तेल में पकाएँ; ऊपर अलसी डालें और दही के साथ दें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 60 g",
+      "कद्दू 140 g",
+      "अलसी 5 g",
+      "दही 100 g",
+      "तेल 5 ml"
+    ]
+  },
+  {
+    "id": "L009",
+    "name": "बाजरा रोटी-भरवां शिमला मिर्च पनीर थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 400 kcal, प्रोटीन 18 g, फाइबर 7 g; कैल्शियम, B12, विटामिन C.",
+    "instruction": [
+      "बाजरे की 2 छोटी रोटियाँ बनाएँ; शिमला मिर्च में लो-फैट पनीर भरकर ढककर पकाएँ; साथ में दही लें।"
+    ],
+    "ingredients": [
+      "बाजरा आटा 60 g",
+      "शिमला मिर्च 120 g",
+      "लो-फैट पनीर 70 g",
+      "दही 80 g",
+      "तेल 5 ml"
+    ]
+  },
+  {
+    "id": "L010",
+    "name": "कुट्टू रोटी-लौकी रायता थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 350 kcal, प्रोटीन 12 g, फाइबर 8 g; मैग्नीशियम, कैल्शियम, फोलेट.",
+    "instruction": [
+      "कुट्टू की 2 छोटी रोटियाँ बनाएँ; लौकी और पालक हल्के मसाले में पकाएँ; साथ में लौकी रायता दें।"
+    ],
+    "ingredients": [
+      "कुट्टू आटा 60 g",
+      "लौकी 140 g",
+      "पालक 40 g",
+      "दही 140 g",
+      "तेल 5 ml"
+    ]
+  },
+  {
+    "id": "L011",
+    "name": "जौ-मूंग खिचड़ी",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 360 kcal, प्रोटीन 14 g, फाइबर 10 g; बीटा-ग्लूकैन, फोलेट, कैल्शियम.",
+    "instruction": [
+      "जौ, थोड़ी मूंग दाल और सब्ज़ियाँ साथ पकाएँ; ऊपर से दही की छोटी कटोरी के साथ परोसें।"
+    ],
+    "ingredients": [
+      "जौ 45 g",
+      "मूंग दाल 25 g",
+      "मिक्स सब्ज़ी 140 g",
+      "दही 80 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L012",
+    "name": "कंगनी-मूंग सब्ज़ी बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 355 kcal, प्रोटीन 13 g, फाइबर 9 g; आयरन, फोलेट, कैल्शियम.",
+    "instruction": [
+      "कंगनी, थोड़ी मूंग दाल और सब्ज़ियों को एक साथ पकाकर बाउल बनाएं; दही के साथ दें।"
+    ],
+    "ingredients": [
+      "कंगनी 45 g",
+      "मूंग दाल 20 g",
+      "मिक्स सब्ज़ी 140 g",
+      "दही 80 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L013",
+    "name": "क्विनोआ-मिक्स वेज पुलाव दही के साथ",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "omega3_support"
+    ],
+    "notes": "लगभग 365 kcal, प्रोटीन 12 g, फाइबर 7 g; मैग्नीशियम, कैल्शियम, ALA ओमेगा-3.",
+    "instruction": [
+      "क्विनोआ और सब्ज़ियों का हल्का पुलाव बनाएँ; ऊपर अलसी डालें और सादा दही साथ रखें।"
+    ],
+    "ingredients": [
+      "क्विनोआ 50 g",
+      "मिक्स सब्ज़ी 140 g",
+      "दही 100 g",
+      "अलसी 5 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L014",
+    "name": "सामा-मिलेट लौकी खिचड़ी",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 335 kcal, प्रोटीन 12 g, फाइबर 8 g; आयरन, मैग्नीशियम, पोटैशियम.",
+    "instruction": [
+      "सामा, लौकी और थोड़ी मूंग दाल को नरम खिचड़ी जैसा पकाएँ; साथ में दही दें।"
+    ],
+    "ingredients": [
+      "सामा 45 g",
+      "लौकी 150 g",
+      "मूंग दाल 20 g",
+      "दही 80 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L015",
+    "name": "कोदो-पालक मूंग बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 340 kcal, प्रोटीन 13 g, फाइबर 9 g; फोलेट, आयरन, कैल्शियम.",
+    "instruction": [
+      "कोदो, पालक और थोड़ी मूंग दाल को एक साथ पकाकर thick bowl बनाएं; दही के साथ लें।"
+    ],
+    "ingredients": [
+      "कोदो मिलेट 45 g",
+      "पालक 70 g",
+      "मूंग दाल 20 g",
+      "दही 80 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L016",
+    "name": "ज्वार-चना दाल पुलाव",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 350 kcal, प्रोटीन 12 g, फाइबर 8 g; फोलेट, मैंगनीज़, कैल्शियम.",
+    "instruction": [
+      "ज्वार दलिया, थोड़ी चना दाल और सब्ज़ियों को साथ पकाकर पुलाव बनाएं; दही के साथ दें।"
+    ],
+    "ingredients": [
+      "ज्वार 45 g",
+      "चना दाल 20 g",
+      "मिक्स सब्ज़ी 140 g",
+      "दही 80 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L017",
+    "name": "बाजरा-दही कढ़ी बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "omega3_support"
+    ],
+    "notes": "लगभग 330 kcal, प्रोटीन 11 g, फाइबर 7 g; कैल्शियम, पोटैशियम, ALA ओमेगा-3.",
+    "instruction": [
+      "बाजरा पकाकर रखें; लौकी वाली पतली दही कढ़ी बनाकर ऊपर अलसी डालें और बाउल में परोसें।"
+    ],
+    "ingredients": [
+      "बाजरा 40 g",
+      "दही 180 g",
+      "लौकी 120 g",
+      "अलसी 5 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L018",
+    "name": "जौ-पालक कढ़ी बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 325 kcal, प्रोटीन 11 g, फाइबर 8 g; फोलेट, कैल्शियम, बीटा-ग्लूकैन.",
+    "instruction": [
+      "जौ पकाकर रखें; पालक वाली पतली दही कढ़ी बनाकर बाउल में परोसें।"
+    ],
+    "ingredients": [
+      "जौ 40 g",
+      "पालक 70 g",
+      "दही 180 g",
+      "तेल 4 ml",
+      "जीरा, हींग, हल्दी"
+    ]
+  },
+  {
+    "id": "L019",
+    "name": "क्विनोआ-पनीर सब्ज़ी बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 390 kcal, प्रोटीन 19 g, फाइबर 6 g; कैल्शियम, B12, मैग्नीशियम.",
+    "instruction": [
+      "क्विनोआ और सब्ज़ियाँ पकाएँ; अंत में लो-फैट पनीर मिलाकर बाउल बनाएं।"
+    ],
+    "ingredients": [
+      "क्विनोआ 45 g",
+      "लो-फैट पनीर 70 g",
+      "मिक्स सब्ज़ी 140 g",
+      "तेल 4 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "L020",
+    "name": "जौ-तोरई मूंग दाल बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 350 kcal, प्रोटीन 13 g, फाइबर 9 g; बीटा-ग्लूकैन, फोलेट, पोटैशियम.",
+    "instruction": [
+      "जौ, तोरई और थोड़ी मूंग दाल को साथ पकाकर बाउल बनाएं; नमक सीमित रखें।"
+    ],
+    "ingredients": [
+      "जौ 45 g",
+      "तोरई 150 g",
+      "मूंग दाल 20 g",
+      "दही 70 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L021",
+    "name": "ज्वार-भिंडी दही बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 335 kcal, प्रोटीन 11 g, फाइबर 8 g; फोलेट, कैल्शियम, मैग्नीशियम.",
+    "instruction": [
+      "ज्वार दलिया और भिंडी पकाकर बाउल बनाएं; ऊपर तिल डालें और दही मिलाएँ।"
+    ],
+    "ingredients": [
+      "ज्वार 45 g",
+      "भिंडी 120 g",
+      "दही 120 g",
+      "तिल 5 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L022",
+    "name": "बाजरा-बथुआ कढ़ी बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 300 kcal, प्रोटीन 12 g, फाइबर 7 g; कैल्शियम, फोलेट, मैग्नीशियम.",
+    "instruction": [
+      "बाजरा पकाकर रखें; दही में बथुआ मिलाकर पतली कढ़ी बनाएं और बाउल में परोसें।"
+    ],
+    "ingredients": [
+      "बाजरा 40 g",
+      "बथुआ 70 g",
+      "दही 180 g",
+      "तेल 4 ml",
+      "जीरा, हींग, हल्दी"
+    ]
+  },
+  {
+    "id": "L023",
+    "name": "जौ-पालक-पनीर ग्रेन बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 385 kcal, प्रोटीन 18 g, फाइबर 8 g; कैल्शियम, B12, फोलेट.",
+    "instruction": [
+      "जौ और पालक पकाकर उसमें लो-फैट पनीर मिलाएँ; एक thick grain bowl बनाएं।"
+    ],
+    "ingredients": [
+      "जौ 45 g",
+      "पालक 70 g",
+      "लो-फैट पनीर 70 g",
+      "तेल 4 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "L024",
+    "name": "कंगनी-गाजर-मटर बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 330 kcal, प्रोटीन 10 g, फाइबर 8 g; फोलेट, विटामिन A, कैल्शियम.",
+    "instruction": [
+      "कंगनी और गाजर-मटर को साथ पकाएँ; ऊपर दही डालकर परोसें।"
+    ],
+    "ingredients": [
+      "कंगनी 45 g",
+      "गाजर-मटर 100 g",
+      "दही 100 g",
+      "तेल 4 ml",
+      "जीरा, काली मिर्च"
+    ]
+  },
+  {
+    "id": "L025",
+    "name": "क्विनोआ-लौकी-चना दाल बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 360 kcal, प्रोटीन 13 g, फाइबर 8 g; मैग्नीशियम, फोलेट, कैल्शियम.",
+    "instruction": [
+      "क्विनोआ, लौकी और थोड़ी चना दाल को साथ पकाकर bowl meal की तरह खाएँ।"
+    ],
+    "ingredients": [
+      "क्विनोआ 45 g",
+      "लौकी 150 g",
+      "चना दाल 20 g",
+      "दही 80 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L026",
+    "name": "जौ-टोफू-शिमला मिर्च बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 340 kcal, प्रोटीन 15 g, फाइबर 7 g; कैल्शियम, आयरन, विटामिन C.",
+    "instruction": [
+      "जौ पकाएँ; शिमला मिर्च और टोफू को हल्का भूनकर उसमें मिलाएँ; नमक कम रखें।"
+    ],
+    "ingredients": [
+      "जौ 45 g",
+      "टोफू 70 g",
+      "शिमला मिर्च 100 g",
+      "तेल 4 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "L027",
+    "name": "बाजरा-तिल भिंडी बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 335 kcal, प्रोटीन 11 g, फाइबर 8 g; मैग्नीशियम, फोलेट, कैल्शियम.",
+    "instruction": [
+      "बाजरा और भिंडी को अलग-अलग पकाकर बाउल में मिलाएँ; ऊपर तिल और दही डालें।"
+    ],
+    "ingredients": [
+      "बाजरा 45 g",
+      "भिंडी 120 g",
+      "तिल 5 g",
+      "दही 100 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L028",
+    "name": "ज्वार-सरसों साग थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 345 kcal, प्रोटीन 12 g, फाइबर 8 g; फोलेट, विटामिन K, कैल्शियम.",
+    "instruction": [
+      "ज्वार की रोटियाँ बनाएँ; सरसों साग को जीरा-अदरक के साथ पकाएँ; दही के साथ परोसें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 60 g",
+      "सरसों साग 100 g",
+      "दही 100 g",
+      "तेल 5 ml",
+      "अदरक, जीरा"
+    ]
+  },
+  {
+    "id": "L029",
+    "name": "जौ-चना सत्तू कढ़ी बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 325 kcal, प्रोटीन 12 g, फाइबर 8 g; फोलेट, कैल्शियम, बीटा-ग्लूकैन.",
+    "instruction": [
+      "जौ पकाकर रखें; दही-सत्तू की पतली कढ़ी बनाएं; ककड़ी मिलाकर बाउल सर्व करें।"
+    ],
+    "ingredients": [
+      "जौ 40 g",
+      "सत्तू 20 g",
+      "दही 180 g",
+      "ककड़ी 80 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L030",
+    "name": "मूंग दाल-पालक स्टू के साथ ज्वार भाखरी",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 365 kcal, प्रोटीन 15 g, फाइबर 9 g; फोलेट, कैल्शियम, मैग्नीशियम.",
+    "instruction": [
+      "ज्वार की छोटी भाखरी बनाएँ; पालक वाली पतली मूंग दाल स्टू बनाकर साथ दें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 60 g",
+      "मूंग दाल 25 g",
+      "पालक 70 g",
+      "दही 80 g",
+      "तेल 5 ml"
+    ]
+  },
+  {
+    "id": "L031",
+    "name": "लो-फैट पनीर-लौकी कोफ्ता ज्वार रोटी के साथ",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 405 kcal, प्रोटीन 18 g, फाइबर 6 g; कैल्शियम, B12, पोटैशियम.",
+    "instruction": [
+      "लो-फैट पनीर और लौकी के baked कोफ्ते बनाकर दही ग्रेवी में डालें; साथ में ज्वार रोटी दें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 60 g",
+      "लो-फैट पनीर 70 g",
+      "लौकी 150 g",
+      "दही 80 g",
+      "तेल 5 ml"
+    ]
+  },
+  {
+    "id": "L032",
+    "name": "जौ-मेथी थेपला दही के साथ",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "omega3_support"
+    ],
+    "notes": "लगभग 350 kcal, प्रोटीन 12 g, फाइबर 9 g; बीटा-ग्लूकैन, फोलेट, ALA ओमेगा-3.",
+    "instruction": [
+      "जौ आटा, मेथी और मसालों से 2 छोटे थेपले बनाकर सेकें; ऊपर अलसी डालें और दही के साथ दें।"
+    ],
+    "ingredients": [
+      "जौ आटा 60 g",
+      "मेथी 40 g",
+      "दही 120 g",
+      "अलसी 5 g",
+      "तेल 5 ml"
+    ]
+  },
+  {
+    "id": "L033",
+    "name": "ज्वार-करेला सूखी सब्ज़ी थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 335 kcal, प्रोटीन 11 g, फाइबर 8 g; विटामिन C, पॉलीफेनॉल, कैल्शियम.",
+    "instruction": [
+      "ज्वार की रोटियाँ बनाएँ; करेला को अजवाइन और हल्दी के साथ कम तेल में पकाएँ; दही के साथ परोसें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 60 g",
+      "करेला 120 g",
+      "दही 120 g",
+      "तेल 5 ml",
+      "हल्दी, अजवाइन"
+    ]
+  },
+  {
+    "id": "L034",
+    "name": "बाजरा-कद्दू-टमाटर थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 340 kcal, प्रोटीन 11 g, फाइबर 7 g; बीटा-कैरोटीन, लाइकोपीन, कैल्शियम.",
+    "instruction": [
+      "बाजरे की 2 छोटी रोटियाँ बनाएँ; कद्दू-टमाटर की सब्ज़ी कम तेल में पकाएँ; ऊपर तिल डालें और दही साथ रखें।"
+    ],
+    "ingredients": [
+      "बाजरा आटा 60 g",
+      "कद्दू-टमाटर 120 g",
+      "दही 120 g",
+      "तिल 5 g",
+      "तेल 5 ml"
+    ]
+  },
+  {
+    "id": "L035",
+    "name": "जौ-पत्तागोभी चना पुलाव",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 345 kcal, प्रोटीन 12 g, फाइबर 8 g; फोलेट, विटामिन C, कैल्शियम.",
+    "instruction": [
+      "जौ, पत्तागोभी और थोड़ी चना दाल के साथ हल्का पुलाव बनाएं; दही साथ रखें।"
+    ],
+    "ingredients": [
+      "जौ 45 g",
+      "पत्तागोभी 120 g",
+      "चना दाल 20 g",
+      "दही 80 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L036",
+    "name": "क्विनोआ-तोरई-पुदीना बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 325 kcal, प्रोटीन 11 g, फाइबर 6 g; मैग्नीशियम, पोटैशियम, कैल्शियम.",
+    "instruction": [
+      "क्विनोआ और तोरई को पुदीना, जीरा और अदरक के साथ पकाकर हल्का बाउल बनाएं।"
+    ],
+    "ingredients": [
+      "क्विनोआ 45 g",
+      "तोरई 120 g",
+      "दही 90 g",
+      "तेल 4 ml",
+      "जीरा, काली मिर्च"
+    ]
+  },
+  {
+    "id": "L037",
+    "name": "कुट्टू-पालक रोटी दही के साथ",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 345 kcal, प्रोटीन 12 g, फाइबर 8 g; मैग्नीशियम, फोलेट, कैल्शियम.",
+    "instruction": [
+      "कुट्टू-पालक की 2 छोटी रोटियाँ बनाएं; दही के साथ लें।"
+    ],
+    "ingredients": [
+      "कुट्टू आटा 60 g",
+      "पालक 80 g",
+      "दही 120 g",
+      "तेल 5 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "L038",
+    "name": "जौ-अमरनाथ पत्ता पुलाव",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 325 kcal, प्रोटीन 11 g, फाइबर 8 g; फोलेट, कैल्शियम, बीटा-ग्लूकैन.",
+    "instruction": [
+      "जौ और अमरनाथ पत्ते को साथ पकाकर हल्का पुलाव बनाएं; ऊपर तिल डालें।"
+    ],
+    "ingredients": [
+      "जौ 45 g",
+      "अमरनाथ पत्ता 60 g",
+      "दही 90 g",
+      "तिल 5 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L039",
+    "name": "ज्वार-ककड़ी रायता थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 340 kcal, प्रोटीन 11 g, फाइबर 7 g; कैल्शियम, विटामिन C, मैग्नीशियम.",
+    "instruction": [
+      "ज्वार रोटियाँ और मिक्स सब्ज़ी के साथ ककड़ी रायता परोसें; नमक सीमित रखें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 60 g",
+      "मिक्स सब्ज़ी 140 g",
+      "दही 140 g",
+      "ककड़ी 80 g",
+      "तेल 5 ml"
+    ]
+  },
+  {
+    "id": "L040",
+    "name": "बाजरा-शलगम सब्ज़ी थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 335 kcal, प्रोटीन 11 g, फाइबर 7 g; विटामिन C, फाइबर, कैल्शियम.",
+    "instruction": [
+      "बाजरे की रोटियाँ बनाएँ; शलगम हल्के मसालों में पकाएँ; दही के साथ खाएँ।"
+    ],
+    "ingredients": [
+      "बाजरा आटा 60 g",
+      "शलगम 100 g",
+      "दही 120 g",
+      "तेल 5 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "L041",
+    "name": "जौ-कद्दू-मूंग स्टू",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 335 kcal, प्रोटीन 12 g, फाइबर 8 g; बीटा-कैरोटीन, फोलेट, बीटा-ग्लूकैन.",
+    "instruction": [
+      "जौ, कद्दू और थोड़ी मूंग दाल को साथ पकाकर thick stew बनाएं; दही साथ रखें।"
+    ],
+    "ingredients": [
+      "जौ 45 g",
+      "कद्दू 120 g",
+      "मूंग दाल 20 g",
+      "दही 80 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L042",
+    "name": "कंगनी-कढ़ी बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 310 kcal, प्रोटीन 10 g, फाइबर 6 g; कैल्शियम, पोटैशियम, आयरन.",
+    "instruction": [
+      "कंगनी पकाकर रखें; लौकी वाली पतली दही कढ़ी बनाकर बाउल में डालें।"
+    ],
+    "ingredients": [
+      "कंगनी 40 g",
+      "दही 180 g",
+      "लौकी 120 g",
+      "तेल 4 ml",
+      "जीरा, हींग, हल्दी"
+    ]
+  },
+  {
+    "id": "L043",
+    "name": "ज्वार-पनीर-पालक थाली",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 400 kcal, प्रोटीन 18 g, फाइबर 7 g; कैल्शियम, B12, फोलेट.",
+    "instruction": [
+      "ज्वार की रोटियाँ बनाएँ; पालक-पनीर को बिना क्रीम के हल्का पकाएँ; दही की छोटी कटोरी साथ रखें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 60 g",
+      "लो-फैट पनीर 70 g",
+      "पालक 80 g",
+      "दही 80 g",
+      "तेल 5 ml"
+    ]
+  },
+  {
+    "id": "L044",
+    "name": "जौ-धनिया दाल सूप के साथ रोटी",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 350 kcal, प्रोटीन 13 g, फाइबर 8 g; फोलेट, कैल्शियम, बीटा-ग्लूकैन.",
+    "instruction": [
+      "जौ की रोटियाँ बनाएँ; पतला मूंग-धनिया सूप और शिमला मिर्च सब्ज़ी के साथ परोसें।"
+    ],
+    "ingredients": [
+      "जौ आटा 60 g",
+      "मूंग दाल 20 g",
+      "शिमला मिर्च 80 g",
+      "दही 80 g",
+      "तेल 5 ml"
+    ]
+  },
+  {
+    "id": "L045",
+    "name": "बाजरा-लौकी-टमाटर बाउल",
+    "tags": [
+      "lunch",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 320 kcal, प्रोटीन 10 g, फाइबर 7 g; पोटैशियम, विटामिन C, मैग्नीशियम.",
+    "instruction": [
+      "बाजरा, लौकी और टमाटर को साथ पकाकर बाउल बनाएं; चाहें तो थोड़ा आंवला कद्दूकस करें।"
+    ],
+    "ingredients": [
+      "बाजरा 45 g",
+      "लौकी 140 g",
+      "दही 100 g",
+      "आंवला 30 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L046",
+    "name": "ब्राउन राइस-सांभर सब्ज़ी बाउल",
+    "tags": [
+      "lunch",
+      "medium_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 330 kcal, प्रोटीन 10 g, फाइबर 6 g; मैंगनीज़, फोलेट, पोटैशियम.",
+    "instruction": [
+      "ब्राउन राइस का छोटा भाग रखें; बिना प्याज़-लहसुन वाला पतला सब्ज़ी सांभर ऊपर डालकर बाउल बनाएं।"
+    ],
+    "ingredients": [
+      "ब्राउन राइस 45 g",
+      "मिक्स सब्ज़ी 150 g",
+      "मूंग दाल 20 g",
+      "तेल 4 ml",
+      "इमली बहुत कम, सांभर मसाला बिना लहसुन"
+    ]
+  },
+  {
+    "id": "L047",
+    "name": "लाल चावल-दही कढ़ी बाउल",
+    "tags": [
+      "lunch",
+      "medium_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 325 kcal, प्रोटीन 10 g, फाइबर 5 g; कैल्शियम, मैंगनीज़, पोटैशियम.",
+    "instruction": [
+      "लाल चावल के छोटे हिस्से के साथ लौकी वाली पतली दही कढ़ी परोसें।"
+    ],
+    "ingredients": [
+      "लाल चावल 45 g",
+      "दही 180 g",
+      "लौकी 120 g",
+      "तेल 4 ml",
+      "जीरा, हींग, हल्दी"
+    ]
+  },
+  {
+    "id": "L048",
+    "name": "दलिया-मूंग खिचड़ी",
+    "tags": [
+      "lunch",
+      "medium_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 330 kcal, प्रोटीन 12 g, फाइबर 7 g; फाइबर, फोलेट, कैल्शियम.",
+    "instruction": [
+      "गेहूँ दलिया, थोड़ी मूंग दाल और सब्ज़ियों को साथ नरम पकाएँ; दही के साथ लें।"
+    ],
+    "ingredients": [
+      "गेहूँ दलिया 40 g",
+      "मूंग दाल 20 g",
+      "मिक्स सब्ज़ी 140 g",
+      "दही 80 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "L049",
+    "name": "गेहूं-मेथी थेपला दही के साथ",
+    "tags": [
+      "lunch",
+      "medium_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 335 kcal, प्रोटीन 11 g, फाइबर 6 g; फोलेट, कैल्शियम, फाइबर.",
+    "instruction": [
+      "साबुत गेहूँ और मेथी से 2 छोटे थेपले बनाकर सूखे सेकें; दही के साथ लें।"
+    ],
+    "ingredients": [
+      "साबुत गेहूँ आटा 60 g",
+      "मेथी 40 g",
+      "दही 120 g",
+      "तेल 5 ml",
+      "अजवाइन, जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "L050",
+    "name": "लाल चावल इडली-सब्ज़ी सांभर थाली",
+    "tags": [
+      "lunch",
+      "medium_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 335 kcal, प्रोटीन 11 g, फाइबर 5 g; मैंगनीज़, फोलेट, कैल्शियम.",
+    "instruction": [
+      "3 छोटी लाल चावल इडली बनाएं; साथ में बिना प्याज़-लहसुन का पतला सब्ज़ी सांभर और दही दें।"
+    ],
+    "ingredients": [
+      "लाल चावल 35 g",
+      "उड़द मिश्रण 15 g",
+      "मिक्स सब्ज़ी 120 g",
+      "दही 80 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "D001",
+    "name": "लौकी-मूंग सूप बाउल",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 220 kcal, प्रोटीन 10 g, फाइबर 5 g; पोटैशियम, फोलेट, कैल्शियम.",
+    "instruction": [
+      "लौकी और थोड़ी मूंग दाल को नरम पकाकर सूप जैसा बनाएं; ऊपर काली मिर्च डालें।"
+    ],
+    "ingredients": [
+      "लौकी 180 g",
+      "मूंग दाल 20 g",
+      "दही 70 g",
+      "तेल 3 ml",
+      "अदरक, जीरा, काली मिर्च"
+    ]
+  },
+  {
+    "id": "D002",
+    "name": "तोरई-दही कढ़ी बाउल",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 230 kcal, प्रोटीन 9 g, फाइबर 5 g; कैल्शियम, पोटैशियम, बीटा-ग्लूकैन.",
+    "instruction": [
+      "तोरई और थोड़े जौ के साथ पतली दही कढ़ी बनाएं; हल्का गरम परोसें।"
+    ],
+    "ingredients": [
+      "तोरई 180 g",
+      "दही 180 g",
+      "जौ 25 g",
+      "तेल 3 ml",
+      "जीरा, हींग, हल्दी"
+    ]
+  },
+  {
+    "id": "D003",
+    "name": "जौ-लौकी खिचड़ी",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 250 kcal, प्रोटीन 10 g, फाइबर 7 g; बीटा-ग्लूकैन, पोटैशियम, फोलेट.",
+    "instruction": [
+      "जौ, लौकी और थोड़ी मूंग दाल को नरम खिचड़ी जैसा पकाएँ; घी न डालें।"
+    ],
+    "ingredients": [
+      "जौ 35 g",
+      "लौकी 160 g",
+      "मूंग दाल 18 g",
+      "तेल 3 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "D004",
+    "name": "ज्वार रोटी-भिंडी सूखी सब्ज़ी",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 300 kcal, प्रोटीन 10 g, फाइबर 7 g; फोलेट, कैल्शियम, मैग्नीशियम.",
+    "instruction": [
+      "1-2 छोटी ज्वार रोटियाँ और भिंडी की हल्की सूखी सब्ज़ी बनाएं; दही के साथ लें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 50 g",
+      "भिंडी 130 g",
+      "दही 100 g",
+      "तेल 4 ml",
+      "जीरा, सौंफ"
+    ]
+  },
+  {
+    "id": "D005",
+    "name": "बाजरा रोटी-टिंडा सब्ज़ी",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 300 kcal, प्रोटीन 10 g, फाइबर 7 g; मैग्नीशियम, कैल्शियम, पोटैशियम.",
+    "instruction": [
+      "1-2 छोटी बाजरा रोटियाँ बनाकर टिंडा हल्के मसालों में पकाएँ; दही साथ रखें।"
+    ],
+    "ingredients": [
+      "बाजरा आटा 50 g",
+      "टिंडा 150 g",
+      "दही 100 g",
+      "तेल 4 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "D006",
+    "name": "पनीर-पालक शोरबा",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 255 kcal, प्रोटीन 16 g, फाइबर 4 g; कैल्शियम, B12, फोलेट.",
+    "instruction": [
+      "पालक को अदरक और जीरा के साथ पकाकर मसलें; अंत में लो-फैट पनीर डालकर 2 मिनट उबालें।"
+    ],
+    "ingredients": [
+      "लो-फैट पनीर 70 g",
+      "पालक 100 g",
+      "दही 60 g",
+      "तेल 3 ml",
+      "अदरक, काली मिर्च, जीरा"
+    ]
+  },
+  {
+    "id": "D007",
+    "name": "कद्दू-अदरक सूप और बेसन मिनी चीला",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 235 kcal, प्रोटीन 8 g, फाइबर 5 g; बीटा-कैरोटीन, कैल्शियम, फोलेट.",
+    "instruction": [
+      "कद्दू-अदरक का सूप बनाएं; साथ में 1 छोटा बेसन चीला कम तेल में पकाकर दें।"
+    ],
+    "ingredients": [
+      "कद्दू 180 g",
+      "बेसन 20 g",
+      "दही 70 g",
+      "तेल 3 ml",
+      "अदरक, जीरा"
+    ]
+  },
+  {
+    "id": "D008",
+    "name": "जौ-पत्तागोभी स्ट्यू",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 220 kcal, प्रोटीन 8 g, फाइबर 7 g; बीटा-ग्लूकैन, विटामिन C, कैल्शियम.",
+    "instruction": [
+      "जौ और पत्तागोभी को नरम पकाकर हल्का स्ट्यू बनाएं; काली मिर्च डालें।"
+    ],
+    "ingredients": [
+      "जौ 30 g",
+      "पत्तागोभी 160 g",
+      "दही 80 g",
+      "तेल 3 ml",
+      "जीरा, काली मिर्च"
+    ]
+  },
+  {
+    "id": "D009",
+    "name": "क्विनोआ-पनीर हल्का बाउल",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 300 kcal, प्रोटीन 17 g, फाइबर 5 g; कैल्शियम, B12, मैग्नीशियम.",
+    "instruction": [
+      "क्विनोआ और सब्ज़ियाँ पकाएँ; अंत में लो-फैट पनीर मिलाकर हल्का dinner bowl बनाएं।"
+    ],
+    "ingredients": [
+      "क्विनोआ 35 g",
+      "लो-फैट पनीर 60 g",
+      "मिक्स सब्ज़ी 140 g",
+      "तेल 3 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "D010",
+    "name": "सामा-मूंग हल्की खिचड़ी",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 245 kcal, प्रोटीन 10 g, फाइबर 6 g; आयरन, फोलेट, पोटैशियम.",
+    "instruction": [
+      "सामा, लौकी और थोड़ी मूंग दाल को बहुत नरम पकाएँ; dinner के लिए हल्का रखें।"
+    ],
+    "ingredients": [
+      "सामा 35 g",
+      "मूंग दाल 18 g",
+      "लौकी 160 g",
+      "तेल 3 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "D011",
+    "name": "मूंग दाल-मेथी सूप",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 220 kcal, प्रोटीन 10 g, फाइबर 5 g; फोलेट, कैल्शियम, पोटैशियम.",
+    "instruction": [
+      "मेथी और थोड़ी मूंग दाल को साथ पकाकर पतला सूप बनाएं; काली मिर्च डालें।"
+    ],
+    "ingredients": [
+      "मूंग दाल 20 g",
+      "मेथी 40 g",
+      "दही 70 g",
+      "तेल 3 ml",
+      "जीरा, काली मिर्च"
+    ]
+  },
+  {
+    "id": "D012",
+    "name": "टमाटर-गाजर शोरबा और ज्वार ढोकला",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 235 kcal, प्रोटीन 8 g, फाइबर 5 g; बीटा-कैरोटीन, लाइकोपीन, कैल्शियम.",
+    "instruction": [
+      "टमाटर-गाजर शोरबा बनाएं; साथ में 2 छोटे ज्वार ढोकला रखें।"
+    ],
+    "ingredients": [
+      "गाजर 120 g",
+      "टमाटर 80 g",
+      "ज्वार 25 g",
+      "दही 80 g",
+      "तेल 3 ml"
+    ]
+  },
+  {
+    "id": "D013",
+    "name": "लो-फैट कढ़ी-लौकी बाउल",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 225 kcal, प्रोटीन 9 g, फाइबर 5 g; कैल्शियम, पोटैशियम, बीटा-ग्लूकैन.",
+    "instruction": [
+      "लौकी वाली पतली दही कढ़ी बनाएं; थोड़े जौ के साथ बाउल में परोसें।"
+    ],
+    "ingredients": [
+      "दही 180 g",
+      "लौकी 160 g",
+      "जौ 25 g",
+      "तेल 3 ml",
+      "जीरा, हींग, हल्दी"
+    ]
+  },
+  {
+    "id": "D014",
+    "name": "जौ-परवल स्ट्यू",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 220 kcal, प्रोटीन 8 g, फाइबर 6 g; बीटा-ग्लूकैन, विटामिन C, कैल्शियम.",
+    "instruction": [
+      "परवल और जौ को नरम पकाकर stew जैसा बनाएँ; नमक कम रखें।"
+    ],
+    "ingredients": [
+      "जौ 30 g",
+      "परवल 160 g",
+      "दही 80 g",
+      "तेल 3 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "D015",
+    "name": "ज्वार-पुदीना रोटी और तोरई",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 290 kcal, प्रोटीन 10 g, फाइबर 6 g; मैग्नीशियम, पोटैशियम, कैल्शियम.",
+    "instruction": [
+      "1-2 छोटी ज्वार-पुदीना रोटियाँ बनाकर तोरई की हल्की सब्ज़ी के साथ खाएँ।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 50 g",
+      "तोरई 160 g",
+      "दही 100 g",
+      "तेल 4 ml",
+      "पुदीना, जीरा"
+    ]
+  },
+  {
+    "id": "D016",
+    "name": "बाजरा-पालक खिचड़ी",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 255 kcal, प्रोटीन 10 g, फाइबर 7 g; फोलेट, आयरन, मैग्नीशियम.",
+    "instruction": [
+      "बाजरा, पालक और थोड़ी मूंग दाल को साथ पकाकर हल्की dinner khichdi बनाएं।"
+    ],
+    "ingredients": [
+      "बाजरा 35 g",
+      "पालक 90 g",
+      "मूंग दाल 18 g",
+      "तेल 3 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "D017",
+    "name": "कुट्टू रोटी-कद्दू तिल सब्ज़ी",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 300 kcal, प्रोटीन 10 g, फाइबर 6 g; बीटा-कैरोटीन, कैल्शियम, मैग्नीशियम.",
+    "instruction": [
+      "1-2 छोटी कुट्टू रोटियाँ बनाएं; कद्दू की सब्ज़ी में तिल डालकर पकाएँ; दही के साथ लें।"
+    ],
+    "ingredients": [
+      "कुट्टू आटा 50 g",
+      "कद्दू 150 g",
+      "तिल 5 g",
+      "दही 100 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "D018",
+    "name": "जौ-दही नमकीन पोरिज",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 220 kcal, प्रोटीन 9 g, फाइबर 6 g; बीटा-ग्लूकैन, कैल्शियम, पोटैशियम.",
+    "instruction": [
+      "जौ को गाढ़ा पकाकर दही, ककड़ी और भुना जीरा मिलाएँ; बिना ज्यादा नमक के लें।"
+    ],
+    "ingredients": [
+      "जौ 30 g",
+      "दही 180 g",
+      "ककड़ी 80 g",
+      "तेल 2 ml",
+      "भुना जीरा, पुदीना"
+    ]
+  },
+  {
+    "id": "D019",
+    "name": "पनीर-शिमला मिर्च हल्की सब्ज़ी",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 285 kcal, प्रोटीन 16 g, फाइबर 5 g; कैल्शियम, B12, विटामिन C.",
+    "instruction": [
+      "लो-फैट पनीर और शिमला मिर्च को हल्का भूनकर थोड़े ज्वार दलिया के साथ बाउल बनाएं।"
+    ],
+    "ingredients": [
+      "लो-फैट पनीर 70 g",
+      "शिमला मिर्च 110 g",
+      "ज्वार 40 g",
+      "तेल 3 ml",
+      "जीरा, काली मिर्च"
+    ]
+  },
+  {
+    "id": "D020",
+    "name": "क्विनोआ-तोरई बाउल",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 255 kcal, प्रोटीन 9 g, फाइबर 5 g; मैग्नीशियम, पोटैशियम, कैल्शियम.",
+    "instruction": [
+      "क्विनोआ और तोरई को साथ पकाकर हल्का बाउल बनाएं; दही की छोटी कटोरी साथ रखें।"
+    ],
+    "ingredients": [
+      "क्विनोआ 35 g",
+      "तोरई 160 g",
+      "दही 80 g",
+      "तेल 3 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "D021",
+    "name": "जौ-मेथी सूप",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 215 kcal, प्रोटीन 8 g, फाइबर 7 g; फोलेट, बीटा-ग्लूकैन, कैल्शियम.",
+    "instruction": [
+      "मेथी और जौ को साथ पकाकर ब्लेंड/मसलें; ऊपर काली मिर्च डालें।"
+    ],
+    "ingredients": [
+      "जौ 30 g",
+      "मेथी 50 g",
+      "दही 70 g",
+      "तेल 3 ml",
+      "जीरा, काली मिर्च"
+    ]
+  },
+  {
+    "id": "D022",
+    "name": "मूंग-पालक ढोकला और दही",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 230 kcal, प्रोटीन 11 g, फाइबर 5 g; फोलेट, कैल्शियम, पोटैशियम.",
+    "instruction": [
+      "मूंग दाल और पालक का ढोकला भाप में पकाएँ; दही के साथ dinner snack-meal की तरह लें।"
+    ],
+    "ingredients": [
+      "मूंग दाल 25 g",
+      "पालक 50 g",
+      "दही 120 g",
+      "तेल 3 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "D023",
+    "name": "जौ-भिंडी-तिल बाउल",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 250 kcal, प्रोटीन 9 g, फाइबर 7 g; बीटा-ग्लूकैन, फोलेट, कैल्शियम.",
+    "instruction": [
+      "जौ और भिंडी का हल्का bowl बनाकर ऊपर तिल डालें; दही की छोटी कटोरी साथ रखें।"
+    ],
+    "ingredients": [
+      "जौ 35 g",
+      "भिंडी 130 g",
+      "तिल 5 g",
+      "दही 80 g",
+      "तेल 3 ml"
+    ]
+  },
+  {
+    "id": "D024",
+    "name": "लो-फैट पनीर लौकी भुर्जी",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 285 kcal, प्रोटीन 16 g, फाइबर 4 g; कैल्शियम, B12, पोटैशियम.",
+    "instruction": [
+      "लो-फैट पनीर और लौकी को हल्के मसालों में scramble-style पकाएँ; थोड़े ज्वार दलिया के साथ लें।"
+    ],
+    "ingredients": [
+      "लो-फैट पनीर 70 g",
+      "लौकी 160 g",
+      "ज्वार 35 g",
+      "तेल 3 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "D025",
+    "name": "बाजरा-करेला सब्ज़ी और रायता",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 290 kcal, प्रोटीन 10 g, फाइबर 7 g; पॉलीफेनॉल, विटामिन C, कैल्शियम.",
+    "instruction": [
+      "1-2 छोटी बाजरा रोटियाँ बनाकर करेले की हल्की सब्ज़ी और ककड़ी रायते के साथ लें।"
+    ],
+    "ingredients": [
+      "बाजरा आटा 50 g",
+      "करेला 120 g",
+      "दही 130 g",
+      "तेल 4 ml",
+      "अजवाइन, हल्दी"
+    ]
+  },
+  {
+    "id": "D026",
+    "name": "ज्वार-पालक फुल्का और परवल",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 295 kcal, प्रोटीन 10 g, फाइबर 7 g; फोलेट, कैल्शियम, विटामिन C.",
+    "instruction": [
+      "ज्वार-पालक फुल्का बना लें; साथ में परवल की हल्की सब्ज़ी और थोड़ी दही रखें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 50 g",
+      "पालक 40 g",
+      "परवल 140 g",
+      "दही 80 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "D027",
+    "name": "कंगनी-लौकी पोंगल",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 245 kcal, प्रोटीन 10 g, फाइबर 6 g; पोटैशियम, फोलेट, आयरन.",
+    "instruction": [
+      "कंगनी, लौकी और थोड़ी मूंग दाल को बहुत नरम पकाएँ; काली मिर्च और अदरक डालें।"
+    ],
+    "ingredients": [
+      "कंगनी 35 g",
+      "लौकी 160 g",
+      "मूंग दाल 18 g",
+      "तेल 3 ml",
+      "जीरा, काली मिर्च, अदरक"
+    ]
+  },
+  {
+    "id": "D028",
+    "name": "जौ-कढ़ी बाउल",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 220 kcal, प्रोटीन 8 g, फाइबर 5 g; कैल्शियम, बीटा-ग्लूकैन, पोटैशियम.",
+    "instruction": [
+      "थोड़ा जौ पकाकर ककड़ी वाली पतली दही कढ़ी के साथ bowl meal की तरह परोसें।"
+    ],
+    "ingredients": [
+      "जौ 30 g",
+      "दही 180 g",
+      "ककड़ी 80 g",
+      "तेल 3 ml",
+      "जीरा, हींग"
+    ]
+  },
+  {
+    "id": "D029",
+    "name": "टमाटर-पालक सूप और बेसन ढोकला",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 230 kcal, प्रोटीन 9 g, फाइबर 5 g; लाइकोपीन, फोलेट, कैल्शियम.",
+    "instruction": [
+      "टमाटर-पालक सूप बनाकर 2 छोटे बेसन ढोकला के साथ dinner में लें।"
+    ],
+    "ingredients": [
+      "पालक 80 g",
+      "बेसन 20 g",
+      "दही 100 g",
+      "टमाटर 120 g",
+      "तेल 3 ml"
+    ]
+  },
+  {
+    "id": "D030",
+    "name": "तिल-पनीर भरी शिमला मिर्च",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 265 kcal, प्रोटीन 15 g, फाइबर 4 g; कैल्शियम, B12, विटामिन C.",
+    "instruction": [
+      "शिमला मिर्च में लो-फैट पनीर और तिल भरकर ढककर पकाएँ; दही के साथ लें।"
+    ],
+    "ingredients": [
+      "लो-फैट पनीर 70 g",
+      "शिमला मिर्च 120 g",
+      "तिल 5 g",
+      "दही 80 g",
+      "तेल 3 ml"
+    ]
+  },
+  {
+    "id": "D031",
+    "name": "लौकी-चना दाल हल्की सब्ज़ी और ज्वार रोटी",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 300 kcal, प्रोटीन 11 g, फाइबर 7 g; फोलेट, पोटैशियम, कैल्शियम.",
+    "instruction": [
+      "ज्वार की छोटी रोटी के साथ लौकी और बहुत कम चना दाल की हल्की सब्ज़ी लें; दही साथ रखें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 50 g",
+      "लौकी 160 g",
+      "चना दाल 15 g",
+      "दही 80 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "D032",
+    "name": "जौ-गाजर-अदरक सूप",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 210 kcal, प्रोटीन 8 g, फाइबर 6 g; बीटा-कैरोटीन, बीटा-ग्लूकैन, कैल्शियम.",
+    "instruction": [
+      "गाजर और जौ को नरम पकाकर सूप बनाएं; अदरक और काली मिर्च डालें।"
+    ],
+    "ingredients": [
+      "जौ 30 g",
+      "गाजर 140 g",
+      "दही 70 g",
+      "तेल 3 ml",
+      "अदरक, जीरा"
+    ]
+  },
+  {
+    "id": "D033",
+    "name": "कुट्टू-मूंग चीला",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 245 kcal, प्रोटीन 11 g, फाइबर 5 g; मैग्नीशियम, फोलेट, कैल्शियम.",
+    "instruction": [
+      "कुट्टू और थोड़ी मूंग दाल का घोल बनाकर 2 छोटे चीले सेकें; दही के साथ लें।"
+    ],
+    "ingredients": [
+      "कुट्टू 30 g",
+      "मूंग दाल 20 g",
+      "दही 90 g",
+      "तेल 4 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "D034",
+    "name": "बाजरा-दही खिच",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 225 kcal, प्रोटीन 8 g, फाइबर 5 g; कैल्शियम, मैग्नीशियम, पोटैशियम.",
+    "instruction": [
+      "बाजरा और लौकी को नरम पकाकर अंत में दही मिलाएँ; हल्की खिच जैसी consistency रखें।"
+    ],
+    "ingredients": [
+      "बाजरा 35 g",
+      "दही 180 g",
+      "लौकी 140 g",
+      "तेल 3 ml",
+      "जीरा, हींग"
+    ]
+  },
+  {
+    "id": "D035",
+    "name": "क्विनोआ-बथुआ बाउल",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 245 kcal, प्रोटीन 9 g, फाइबर 5 g; फोलेट, कैल्शियम, मैग्नीशियम.",
+    "instruction": [
+      "क्विनोआ और बथुआ को साथ पकाकर हल्का bowl बनाएं; दही की छोटी कटोरी साथ दें।"
+    ],
+    "ingredients": [
+      "क्विनोआ 35 g",
+      "बथुआ 80 g",
+      "दही 80 g",
+      "तेल 3 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "D036",
+    "name": "जौ-पनीर-धनिया सूप",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 250 kcal, प्रोटीन 15 g, फाइबर 4 g; कैल्शियम, B12, बीटा-ग्लूकैन.",
+    "instruction": [
+      "धनिया और जौ का हल्का सूप बनाकर अंत में लो-फैट पनीर मिलाएँ।"
+    ],
+    "ingredients": [
+      "जौ 30 g",
+      "लो-फैट पनीर 60 g",
+      "धनिया पत्ता 15 g",
+      "दही 60 g",
+      "तेल 3 ml"
+    ]
+  },
+  {
+    "id": "D037",
+    "name": "मूंग-शिमला सूप",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 215 kcal, प्रोटीन 10 g, फाइबर 5 g; फोलेट, विटामिन C, कैल्शियम.",
+    "instruction": [
+      "शिमला मिर्च और थोड़ी मूंग दाल को साथ पकाकर पतला सूप बनाएं; काली मिर्च डालें।"
+    ],
+    "ingredients": [
+      "मूंग दाल 20 g",
+      "शिमला मिर्च 120 g",
+      "दही 70 g",
+      "तेल 3 ml",
+      "जीरा, काली मिर्च"
+    ]
+  },
+  {
+    "id": "D038",
+    "name": "ज्वार-मेथी फुल्का और लौकी",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 285 kcal, प्रोटीन 10 g, फाइबर 6 g; फोलेट, पोटैशियम, कैल्शियम.",
+    "instruction": [
+      "ज्वार-मेथी फुल्का बनाकर लौकी की हल्की सब्ज़ी और दही के साथ लें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 50 g",
+      "मेथी 30 g",
+      "लौकी 150 g",
+      "दही 80 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "D039",
+    "name": "जौ-पालक-तिल बाउल",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 235 kcal, प्रोटीन 9 g, फाइबर 7 g; फोलेट, कैल्शियम, बीटा-ग्लूकैन.",
+    "instruction": [
+      "जौ और पालक को साथ पकाकर ऊपर तिल डालें; dinner में हल्का bowl रखें।"
+    ],
+    "ingredients": [
+      "जौ 35 g",
+      "पालक 90 g",
+      "तिल 5 g",
+      "दही 80 g",
+      "तेल 3 ml"
+    ]
+  },
+  {
+    "id": "D040",
+    "name": "जौ-मिश्रित सब्ज़ी स्ट्यू",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 220 kcal, प्रोटीन 8 g, फाइबर 7 g; बीटा-ग्लूकैन, पोटैशियम, कैल्शियम.",
+    "instruction": [
+      "जौ और मिक्स सब्ज़ियों को बहुत नरम पकाकर stew बनाएं; नमक कम रखें।"
+    ],
+    "ingredients": [
+      "जौ 30 g",
+      "मिक्स सब्ज़ी 180 g",
+      "दही 70 g",
+      "तेल 3 ml",
+      "जीरा, काली मिर्च"
+    ]
+  },
+  {
+    "id": "D041",
+    "name": "बाजरा-टमाटर-धनिया सूप",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 215 kcal, प्रोटीन 7 g, फाइबर 5 g; लाइकोपीन, मैग्नीशियम, कैल्शियम.",
+    "instruction": [
+      "टमाटर और गाजर के सूप में थोड़ा बाजरा मिलाकर हल्का thick soup बनाएं।"
+    ],
+    "ingredients": [
+      "बाजरा 25 g",
+      "गाजर 120 g",
+      "टमाटर 100 g",
+      "दही 70 g",
+      "तेल 3 ml"
+    ]
+  },
+  {
+    "id": "D042",
+    "name": "ज्वार-पनीर रोल",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 295 kcal, प्रोटीन 16 g, फाइबर 5 g; कैल्शियम, B12, विटामिन C.",
+    "instruction": [
+      "ज्वार की पतली रोटी में शिमला मिर्च के साथ हल्का पका लो-फैट पनीर भरकर रोल बनाएँ; दही के साथ दें।"
+    ],
+    "ingredients": [
+      "ज्वार आटा 50 g",
+      "लो-फैट पनीर 60 g",
+      "शिमला मिर्च 100 g",
+      "दही 70 g",
+      "तेल 4 ml"
+    ]
+  },
+  {
+    "id": "D043",
+    "name": "सामा-पालक बाउल",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "folate_rich"
+    ],
+    "notes": "लगभग 235 kcal, प्रोटीन 8 g, फाइबर 6 g; फोलेट, आयरन, कैल्शियम.",
+    "instruction": [
+      "सामा और पालक को साथ पकाकर हल्का बाउल बनाएं; छोटी दही कटोरी के साथ लें।"
+    ],
+    "ingredients": [
+      "सामा 35 g",
+      "पालक 90 g",
+      "दही 80 g",
+      "तेल 3 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "D044",
+    "name": "जौ-तोरई छाछ करी",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 225 kcal, प्रोटीन 8 g, फाइबर 5 g; कैल्शियम, पोटैशियम, बीटा-ग्लूकैन.",
+    "instruction": [
+      "थोड़ा जौ और तोरई को पतली दही/छाछ करी में पकाएँ; बहुत हल्का dinner रखें।"
+    ],
+    "ingredients": [
+      "जौ 25 g",
+      "तोरई 170 g",
+      "दही 180 g",
+      "तेल 3 ml",
+      "जीरा, हींग"
+    ]
+  },
+  {
+    "id": "D045",
+    "name": "कंगनी-पनीर सूप बाउल",
+    "tags": [
+      "dinner",
+      "low_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 250 kcal, प्रोटीन 14 g, फाइबर 4 g; कैल्शियम, B12, विटामिन A.",
+    "instruction": [
+      "गाजर के सूप में थोड़ा कंगनी और लो-फैट पनीर मिलाकर savory dinner bowl बनाएं।"
+    ],
+    "ingredients": [
+      "कंगनी 25 g",
+      "लो-फैट पनीर 60 g",
+      "गाजर 120 g",
+      "दही 60 g",
+      "तेल 3 ml"
+    ]
+  },
+  {
+    "id": "D046",
+    "name": "लाल चावल-मूंग पेज",
+    "tags": [
+      "dinner",
+      "medium_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 240 kcal, प्रोटीन 8 g, फाइबर 4 g; मैंगनीज़, फोलेट, पोटैशियम.",
+    "instruction": [
+      "लाल चावल, थोड़ी मूंग दाल और लौकी को बहुत नरम पकाकर पतला पेज बनाएं; छोटा भाग ही लें।"
+    ],
+    "ingredients": [
+      "लाल चावल 35 g",
+      "मूंग दाल 15 g",
+      "लौकी 150 g",
+      "तेल 3 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "D047",
+    "name": "दलिया-लौकी खिचड़ी",
+    "tags": [
+      "dinner",
+      "medium_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "controlled_legume"
+    ],
+    "notes": "लगभग 240 kcal, प्रोटीन 8 g, फाइबर 5 g; फाइबर, फोलेट, पोटैशियम.",
+    "instruction": [
+      "गेहूँ दलिया, लौकी और थोड़ी मूंग दाल को बहुत नरम dinner khichdi जैसा पकाएँ।"
+    ],
+    "ingredients": [
+      "गेहूँ दलिया 35 g",
+      "लौकी 160 g",
+      "मूंग दाल 15 g",
+      "तेल 3 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "D048",
+    "name": "रागी-वेज उत्तपम",
+    "tags": [
+      "dinner",
+      "medium_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 245 kcal, प्रोटीन 8 g, फाइबर 4 g; कैल्शियम, विटामिन C, मैग्नीशियम.",
+    "instruction": [
+      "रागी बैटर का छोटा उत्तपम बनाएँ; ऊपर शिमला मिर्च और पालक डालकर कम तेल में पकाएँ।"
+    ],
+    "ingredients": [
+      "रागी 35 g",
+      "दही 90 g",
+      "शिमला मिर्च 80 g",
+      "तेल 4 ml",
+      "जीरा, अदरक"
+    ]
+  },
+  {
+    "id": "D049",
+    "name": "वेज पोहा-दही हल्का बाउल",
+    "tags": [
+      "dinner",
+      "medium_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "calcium_rich"
+    ],
+    "notes": "लगभग 235 kcal, प्रोटीन 7 g, फाइबर 4 g; कैल्शियम, विटामिन C, पोटैशियम.",
+    "instruction": [
+      "बहुत छोटा पोहा भाग रखें; मिक्स सब्ज़ी के साथ पकाकर दही के साथ लें।"
+    ],
+    "ingredients": [
+      "मोटा पोहा 35 g",
+      "मिक्स सब्ज़ी 120 g",
+      "दही 100 g",
+      "तेल 3 ml",
+      "राई, अदरक, हल्दी"
+    ]
+  },
+  {
+    "id": "D050",
+    "name": "ब्राउन राइस-मिक्स वेज सूप बाउल",
+    "tags": [
+      "dinner",
+      "medium_gi",
+      "diabetes_friendly",
+      "heart_friendly",
+      "no_onion_garlic",
+      "low_purine"
+    ],
+    "notes": "लगभग 245 kcal, प्रोटीन 7 g, फाइबर 4 g; मैंगनीज़, पोटैशियम, कैल्शियम.",
+    "instruction": [
+      "ब्राउन राइस का छोटा भाग उबली सब्ज़ियों के clear soup में मिलाकर light dinner bowl बनाएं।"
+    ],
+    "ingredients": [
+      "ब्राउन राइस 35 g",
+      "मिक्स सब्ज़ी 170 g",
+      "दही 70 g",
+      "तेल 3 ml",
+      "जीरा, काली मिर्च"
+    ]
+  }
 ]
-
