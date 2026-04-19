@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+  <meta name="theme-color" content="#B8541A">
+  <title>आज की रसोई</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <main id="home-view" class="view">
+    <header class="home-header">
+      <h1>आज की रसोई</h1>
+      <p class="subtitle">आज क्या बनाएँ?</p>
+    </header>
+
+    <nav class="category-grid" aria-label="भोजन चुनें">
+      <button class="category-card cat-breakfast" data-category="breakfast">
+        <span class="category-name-hi">नाश्ता</span>
+        <span class="category-name-en">Breakfast</span>
+      </button>
+      <button class="category-card cat-lunch" data-category="lunch">
+        <span class="category-name-hi">दोपहर का भोजन</span>
+        <span class="category-name-en">Lunch</span>
+      </button>
+      <button class="category-card cat-dinner" data-category="dinner">
+        <span class="category-name-hi">रात का भोजन</span>
+        <span class="category-name-en">Dinner</span>
+      </button>
+      <button class="category-card cat-fullday" data-category="fullday">
+        <span class="category-name-hi">पूरे दिन का भोजन</span>
+        <span class="category-name-en">Complete Day Meal</span>
+      </button>
+    </nav>
+  </main>
+
+  <main id="recipes-view" class="view hidden">
+    <header class="recipes-header">
+      <button id="back-btn" class="back-btn" aria-label="मुख्य पृष्ठ पर वापस जाएँ">
+        <span class="back-arrow" aria-hidden="true">←</span>
+        <span>वापस</span>
+      </button>
+      <h2 id="category-title"></h2>
+      <div id="recipe-count" class="recipe-count"></div>
+    </header>
+
+    <div class="view-toggle" role="tablist" aria-label="देखने का तरीका">
+      <button id="detail-toggle" class="toggle-btn active" role="tab" aria-selected="true">
+        विस्तृत जानकारी
+      </button>
+      <button id="list-toggle" class="toggle-btn" role="tab" aria-selected="false">
+        केवल सूची
+      </button>
+    </div>
+
+    <div id="recipes-container" class="recipes-container" aria-live="polite"></div>
+
+    <div class="scroll-top-wrap">
+      <button id="scroll-top-btn" class="scroll-top-btn" aria-label="ऊपर जाएँ">
+        ऊपर जाएँ ↑
+      </button>
+    </div>
+  </main>
+
+  <div id="loading" class="loading">भोजन सूची लोड हो रही है...</div>
+
+  <script src="app.js"></script>
+</body>
+</html>
