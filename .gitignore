@@ -9,5 +9,9 @@ WhatsApp Image 2026-04-17 at 4.49.29 PM.jpeg
 *.jpeg
 *.jpg
 
+# Private health summary and recipe-check skill
+FATHER_HEALTH.md
+.claude/
+
 # OS / editor clutter
 .DS_Store
