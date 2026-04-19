@@ -1,0 +1,13 @@
+# Medical reports (private — do not commit)
+download (5) (2).pdf
+Report (1).pdf
+WhatsApp Image 2026-04-17 at 4.49.17 PM.jpeg
+WhatsApp Image 2026-04-17 at 4.49.29 PM.jpeg
+
+# Any future reports
+*.pdf
+*.jpeg
+*.jpg
+
+# OS / editor clutter
+.DS_Store
